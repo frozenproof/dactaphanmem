@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-25T09:30:10.940Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="ZLyRBcClGx2ZwR6Z19Yf" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-25T09:31:43.182Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="4sDmfUrdcSK2vww-jTEn" version="21.7.5" type="github">
   <diagram name="Page-1" id="567cU7zU4idR2Q4NE55Z">
     <mxGraphModel dx="777" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -37,7 +37,7 @@
         <mxCell id="lOqyoyoD0T-UHyPog28c-3" value="10" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="lOqyoyoD0T-UHyPog28c-1">
           <mxGeometry y="60" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lOqyoyoD0T-UHyPog28c-4" value="...." style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="lOqyoyoD0T-UHyPog28c-1">
+        <mxCell id="lOqyoyoD0T-UHyPog28c-4" value="20" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="lOqyoyoD0T-UHyPog28c-1">
           <mxGeometry y="90" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lOqyoyoD0T-UHyPog28c-17" value="60" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOqyoyoD0T-UHyPog28c-1">
@@ -61,7 +61,7 @@
         <mxCell id="lOqyoyoD0T-UHyPog28c-7" value="10" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="lOqyoyoD0T-UHyPog28c-5">
           <mxGeometry y="60" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lOqyoyoD0T-UHyPog28c-8" value="..." style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="lOqyoyoD0T-UHyPog28c-5">
+        <mxCell id="lOqyoyoD0T-UHyPog28c-8" value="20" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="lOqyoyoD0T-UHyPog28c-5">
           <mxGeometry y="90" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lOqyoyoD0T-UHyPog28c-18" value="50" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOqyoyoD0T-UHyPog28c-5">
@@ -85,7 +85,7 @@
         <mxCell id="lOqyoyoD0T-UHyPog28c-11" value="2" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="lOqyoyoD0T-UHyPog28c-9">
           <mxGeometry y="60" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lOqyoyoD0T-UHyPog28c-12" value="...." style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="lOqyoyoD0T-UHyPog28c-9">
+        <mxCell id="lOqyoyoD0T-UHyPog28c-12" value="4" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="lOqyoyoD0T-UHyPog28c-9">
           <mxGeometry y="90" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lOqyoyoD0T-UHyPog28c-19" value="8" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOqyoyoD0T-UHyPog28c-9">
@@ -109,7 +109,7 @@
         <mxCell id="lOqyoyoD0T-UHyPog28c-15" value="OLED" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="lOqyoyoD0T-UHyPog28c-13">
           <mxGeometry y="60" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lOqyoyoD0T-UHyPog28c-16" value="..." style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="lOqyoyoD0T-UHyPog28c-13">
+        <mxCell id="lOqyoyoD0T-UHyPog28c-16" value="55 INCH" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="lOqyoyoD0T-UHyPog28c-13">
           <mxGeometry y="90" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lOqyoyoD0T-UHyPog28c-26" value="128" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lOqyoyoD0T-UHyPog28c-13">
