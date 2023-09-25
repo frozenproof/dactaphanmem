@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-25T09:21:46.014Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="lrN6CN_tRR5iUA2MPdZd" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-25T09:32:16.856Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="kt4uN0E6gKAjwjtFVoUb" version="21.7.5" type="github">
   <diagram name="Page-1" id="144IZa2tur5FAq8dYuCp">
     <mxGraphModel dx="777" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -51,6 +51,9 @@
         </mxCell>
         <mxCell id="zWx8ppZP9FwZAmCm1ALs-20" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="zWx8ppZP9FwZAmCm1ALs-17">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zWx8ppZP9FwZAmCm1ALs-21" value="DAC TRUNG - SAN PHAM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="365" y="50" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
