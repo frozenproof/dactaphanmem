@@ -1,11 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2023-10-01T08:04:20.603Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="bi5ngI25x8Ljpl33OFtv" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-01T08:06:02.507Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="FldUXxHJj5DjXYD773Ag" version="21.8.2" type="github">
   <diagram name="Page-1" id="_L53pu-eKjSUzyPY_FYC">
     <mxGraphModel dx="1110" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="0lqGQbvRG_3BoC6F8_CW-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0lqGQbvRG_3BoC6F8_CW-1" target="0lqGQbvRG_3BoC6F8_CW-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0lqGQbvRG_3BoC6F8_CW-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0lqGQbvRG_3BoC6F8_CW-1" target="0lqGQbvRG_3BoC6F8_CW-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0lqGQbvRG_3BoC6F8_CW-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0lqGQbvRG_3BoC6F8_CW-1" target="0lqGQbvRG_3BoC6F8_CW-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0lqGQbvRG_3BoC6F8_CW-1" value="XD quản lý cho thuê máy chủ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0lqGQbvRG_3BoC6F8_CW-2" value="Quản trị hệ thống" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="600" width="120" height="60" as="geometry" />
@@ -84,6 +93,9 @@
         </mxCell>
         <mxCell id="0lqGQbvRG_3BoC6F8_CW-28" value="Cấp tài khoản sử dụng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0lqGQbvRG_3BoC6F8_CW-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.583;entryY=-0.029;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0lqGQbvRG_3BoC6F8_CW-1" target="0lqGQbvRG_3BoC6F8_CW-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
