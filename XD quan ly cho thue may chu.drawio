@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-06T02:18:17.551Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="MzuG_ngjrP6Fpq5pMNy6" version="22.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-06T02:39:49.630Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="3mUgiSfVKQD5IkmN-4bp" version="22.0.2" type="github">
   <diagram name="Page-1" id="_L53pu-eKjSUzyPY_FYC">
     <mxGraphModel dx="1012" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -61,7 +61,7 @@
         <mxCell id="0lqGQbvRG_3BoC6F8_CW-13" value="Cập nhật gói dịch vụ" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="920" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0lqGQbvRG_3BoC6F8_CW-14" value="Cập nhật máy chủ- dịch vụ - chu kỳ thời gian" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="0lqGQbvRG_3BoC6F8_CW-14" value="Cập nhật máy chủ - dịch vụ - chu kỳ thời gian" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0lqGQbvRG_3BoC6F8_CW-16" value="Quản lý kinh doanh" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
