@@ -1,46 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2023-10-24T10:48:06.934Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="795R4n4wRJC7NXHjuDCV" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-24T10:48:24.428Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="phLazlqTFEeXBP1o9vRn" version="22.0.6" type="github">
   <diagram name="Page-1" id="Ea61cFEDh1r0lH2D8Xxs">
-    <mxGraphModel dx="1017" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1450" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ylkvVRTfP2TL3_-mshk7-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ylkvVRTfP2TL3_-mshk7-1" target="ylkvVRTfP2TL3_-mshk7-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="60" y="250" />
-              <mxPoint x="170" y="250" />
+              <mxPoint x="60" y="460" />
+              <mxPoint x="170" y="460" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ylkvVRTfP2TL3_-mshk7-1" value="A tuyển B tuyển C là đúng" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="160" width="120" height="60" as="geometry" />
+          <mxGeometry y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ylkvVRTfP2TL3_-mshk7-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ylkvVRTfP2TL3_-mshk7-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="170" y="280" as="targetPoint" />
+            <mxPoint x="170" y="490" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="280" y="250" />
-              <mxPoint x="171" y="250" />
+              <mxPoint x="280" y="460" />
+              <mxPoint x="171" y="460" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ylkvVRTfP2TL3_-mshk7-2" value="Nghịch đảo của B là đúng" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ylkvVRTfP2TL3_-mshk7-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ylkvVRTfP2TL3_-mshk7-3" target="ylkvVRTfP2TL3_-mshk7-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ylkvVRTfP2TL3_-mshk7-3" value="A tuyển C là đúng" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ylkvVRTfP2TL3_-mshk7-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ylkvVRTfP2TL3_-mshk7-6" target="ylkvVRTfP2TL3_-mshk7-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ylkvVRTfP2TL3_-mshk7-6" value="Nghịch đảo của C là đúng" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ylkvVRTfP2TL3_-mshk7-7" value="A là đúng" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
