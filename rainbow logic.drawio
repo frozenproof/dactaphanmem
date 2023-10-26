@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-26T02:52:22.754Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="b3rpEy6kiLjR9KVAAQua" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-26T02:52:36.312Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="ceRj05MKaVXzJ3MUPZxW" version="22.0.8" type="github">
   <diagram name="Page-1" id="Tb81CREaaDEDj-NtLf-2">
     <mxGraphModel dx="997" dy="445" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -40,8 +40,8 @@
         <mxCell id="fbW0CiXFTE2DrxvCIc_U-5" value="-I" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fbW0CiXFTE2DrxvCIc_U-10" value="Nghịch đảo mệnh đề cần tiên" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="165" y="10" width="180" height="30" as="geometry" />
+        <mxCell id="fbW0CiXFTE2DrxvCIc_U-10" value="Nghịch đảo mệnh đề cần chứng minh" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="145" y="10" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fbW0CiXFTE2DrxvCIc_U-14" value="-I -am" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="320" width="120" height="60" as="geometry" />
