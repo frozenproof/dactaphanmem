@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2024-01-24T06:39:23.222Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="OKOv2DyU7hrOfoQc4jew" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-24T06:56:30.517Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="YNyr1MgBB3nubqFlGm-C" version="22.1.21" type="github">
   <diagram name="Page-1" id="ill8SDHSSKFXlnQjD34v">
-    <mxGraphModel dx="938" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1037" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-kPjgLYo0WIdV9sRpqmW-1" value="Employee" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="-kPjgLYo0WIdV9sRpqmW-1" value="Employees" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="510" y="165" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-kPjgLYo0WIdV9sRpqmW-3" value="Phone" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="105" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-kPjgLYo0WIdV9sRpqmW-4" value="Department" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="-kPjgLYo0WIdV9sRpqmW-4" value="Departments" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="970" y="165" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-kPjgLYo0WIdV9sRpqmW-6" value="SSN" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4" vertex="1" parent="1">
@@ -85,7 +85,7 @@
             <mxPoint x="1290" y="315" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-kPjgLYo0WIdV9sRpqmW-56" value="Employee&lt;br&gt;Work in Department" style="shape=associativeEntity;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="-kPjgLYo0WIdV9sRpqmW-56" value="Employees&lt;br&gt;Work in Department" style="shape=associativeEntity;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="710" y="60" width="170" height="75" as="geometry" />
         </mxCell>
         <mxCell id="-kPjgLYo0WIdV9sRpqmW-57" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-kPjgLYo0WIdV9sRpqmW-1" target="-kPjgLYo0WIdV9sRpqmW-56">
