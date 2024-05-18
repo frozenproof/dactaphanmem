@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-18T05:38:22.280Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="U-uqjSdV2Z4P9Sd8LrkR" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-18T06:05:29.041Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="f4ymRlEJYDn2P06XgCDm" version="24.4.4" type="github">
   <diagram name="Page-1" id="b98fa263-6416-c6ec-5b7d-78bf54ef71d0">
-    <mxGraphModel dx="1288" dy="875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1104" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -12,7 +12,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Tvb6JHg-_AOWFNuAXbLU-2" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Chức năng của người dùng&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=3" parent="1" vertex="1">
+        <mxCell id="Tvb6JHg-_AOWFNuAXbLU-2" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Chức năng của&amp;nbsp;&lt;/span&gt;người dùng" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=3" parent="1" vertex="1">
           <mxGeometry x="420" y="20" width="360" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Tvb6JHg-_AOWFNuAXbLU-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" parent="1" source="Tvb6JHg-_AOWFNuAXbLU-4" target="Tvb6JHg-_AOWFNuAXbLU-5" edge="1">
@@ -24,10 +24,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Tvb6JHg-_AOWFNuAXbLU-4" value="Quản lý&amp;nbsp;&lt;div&gt;người dùng&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="Tvb6JHg-_AOWFNuAXbLU-4" value="Quản lý&amp;nbsp;&lt;div&gt;tài khoản &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="40" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Tvb6JHg-_AOWFNuAXbLU-5" value="Cập nhật&amp;nbsp;&lt;div&gt;người dùng&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="Tvb6JHg-_AOWFNuAXbLU-5" value="Cập nhật&amp;nbsp;&lt;div&gt;tài khoản &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="40" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tvb6JHg-_AOWFNuAXbLU-6" value="Đăng kí" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
@@ -266,7 +266,7 @@
         <mxCell id="2t69ATgE38H-RgzgNJfz-29" value="Gọi video" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="440" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2t69ATgE38H-RgzgNJfz-32" value="Chặn&amp;nbsp;&lt;div&gt;người dùng&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="2t69ATgE38H-RgzgNJfz-32" value="Chặn&amp;nbsp;&lt;div&gt;tài khoản &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="860" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2t69ATgE38H-RgzgNJfz-33" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" parent="1" target="2t69ATgE38H-RgzgNJfz-32" edge="1">
