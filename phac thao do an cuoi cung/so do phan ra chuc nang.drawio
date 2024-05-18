@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-18T05:16:23.146Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="fEyjmrfenZll_SFsDyKG" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-18T05:16:45.068Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="Gsuzvi2BfiZEZraZu-J8" version="24.4.4" type="github">
   <diagram name="Page-1" id="b98fa263-6416-c6ec-5b7d-78bf54ef71d0">
-    <mxGraphModel dx="1104" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="909" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -26,7 +26,7 @@
         <mxCell id="Tvb6JHg-_AOWFNuAXbLU-4" value="Quản lý người dùng" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="40" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Tvb6JHg-_AOWFNuAXbLU-5" value="Cập nhật người dùng" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="Tvb6JHg-_AOWFNuAXbLU-5" value="Cập nhật&amp;nbsp;&lt;div&gt;người dùng&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="40" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tvb6JHg-_AOWFNuAXbLU-6" value="Đăng kí" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
