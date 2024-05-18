@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-18T05:04:55.514Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="RUKzURjz8QCCPZNJp-3T" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-18T05:06:58.040Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="Kn0chT0EGhKoqSMqUb2b" version="24.4.4" type="github">
   <diagram name="Page-1" id="b98fa263-6416-c6ec-5b7d-78bf54ef71d0">
     <mxGraphModel dx="1192" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -157,6 +157,57 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="799.94" y="110" as="sourcePoint" />
             <mxPoint x="799.94" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2t69ATgE38H-RgzgNJfz-5" value="Quản lý tin nhắn" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2t69ATgE38H-RgzgNJfz-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="2t69ATgE38H-RgzgNJfz-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="590" as="targetPoint" />
+            <mxPoint x="410" y="190" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="410" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2t69ATgE38H-RgzgNJfz-7" value="Xóa tin nhắn" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2t69ATgE38H-RgzgNJfz-8" value="Gửi tin nhắn" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2t69ATgE38H-RgzgNJfz-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="2t69ATgE38H-RgzgNJfz-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="340" as="sourcePoint" />
+            <mxPoint x="790" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2t69ATgE38H-RgzgNJfz-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="2t69ATgE38H-RgzgNJfz-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="250" as="sourcePoint" />
+            <mxPoint x="440" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2t69ATgE38H-RgzgNJfz-11" value="Cập nhật tin nhắn" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2t69ATgE38H-RgzgNJfz-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="2t69ATgE38H-RgzgNJfz-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="430" as="sourcePoint" />
+            <mxPoint x="790" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2t69ATgE38H-RgzgNJfz-13" value="Trả lời tin nhắn" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2t69ATgE38H-RgzgNJfz-14" value="Cập nhật tin nhắn" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2t69ATgE38H-RgzgNJfz-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="2t69ATgE38H-RgzgNJfz-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="530" as="sourcePoint" />
+            <mxPoint x="790" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
