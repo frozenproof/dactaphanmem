@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-18T06:41:01.095Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="agicu-V1j0ZcnQvv-vIX" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-18T06:43:25.591Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="QECydsaLFmYzBsNu7VG5" version="24.4.4" type="github">
   <diagram name="Page-1" id="XS5_wPB4vtfXRTraGKoQ">
     <mxGraphModel dx="736" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -17,6 +17,15 @@
         </mxCell>
         <mxCell id="Y7fNTZFpDx7xEDCyt_vK-6" value="Đăng nhập" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="235.94" width="120" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="Y7fNTZFpDx7xEDCyt_vK-9" value="Đăng xuất" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="370" width="120" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="Y7fNTZFpDx7xEDCyt_vK-10" value="&amp;lt;&amp;lt;Include&amp;gt;&amp;gt;" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Y7fNTZFpDx7xEDCyt_vK-6" target="Y7fNTZFpDx7xEDCyt_vK-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="160" as="sourcePoint" />
+            <mxPoint x="607" y="261" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
