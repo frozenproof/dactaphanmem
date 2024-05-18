@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-18T05:14:30.802Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="vx6Pfrz9UR7gcj_670xh" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-18T05:15:03.501Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="i4MHeB1_8VEAj1QgQwzX" version="24.4.4" type="github">
   <diagram name="Page-1" id="b98fa263-6416-c6ec-5b7d-78bf54ef71d0">
     <mxGraphModel dx="1192" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -117,12 +117,12 @@
             <mxPoint x="1054.94" y="430" as="targetPoint" />
             <mxPoint x="1034.94" y="190" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="1034.94" y="340" />
+              <mxPoint x="1035" y="430" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Tvb6JHg-_AOWFNuAXbLU-27" value="Cập nhật gói dịch vụ" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1054.94" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="1054.94" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tvb6JHg-_AOWFNuAXbLU-28" value="Tra cứu thông tin gói dịch vụ" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1054.94" y="220" width="120" height="60" as="geometry" />
@@ -272,6 +272,15 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="840" y="340" as="sourcePoint" />
             <mxPoint x="870" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2t69ATgE38H-RgzgNJfz-34" value="Mua gói dịch vụ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1054.94" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2t69ATgE38H-RgzgNJfz-35" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="2t69ATgE38H-RgzgNJfz-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1034.94" y="340" as="sourcePoint" />
+            <mxPoint x="1064.94" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
