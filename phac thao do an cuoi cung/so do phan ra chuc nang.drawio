@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-18T05:17:52.299Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="1eJst1mtzrUjcGAtZiB0" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-18T05:18:11.882Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="IPRIyww-pgfrfuAzcGJq" version="24.4.4" type="github">
   <diagram name="Page-1" id="b98fa263-6416-c6ec-5b7d-78bf54ef71d0">
     <mxGraphModel dx="1288" dy="932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -24,7 +24,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Tvb6JHg-_AOWFNuAXbLU-4" value="Quản lý người dùng" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="Tvb6JHg-_AOWFNuAXbLU-4" value="Quản lý&amp;nbsp;&lt;div&gt;người dùng&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="40" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tvb6JHg-_AOWFNuAXbLU-5" value="Cập nhật&amp;nbsp;&lt;div&gt;người dùng&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
@@ -267,7 +267,7 @@
         <mxCell id="2t69ATgE38H-RgzgNJfz-29" value="Gọi video" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="440" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2t69ATgE38H-RgzgNJfz-32" value="Chặn người dùng" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="2t69ATgE38H-RgzgNJfz-32" value="Chặn&amp;nbsp;&lt;div&gt;người dùng&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="860" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2t69ATgE38H-RgzgNJfz-33" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" target="2t69ATgE38H-RgzgNJfz-32">
