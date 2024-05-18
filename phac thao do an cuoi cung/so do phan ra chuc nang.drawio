@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-18T06:05:29.041Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="f4ymRlEJYDn2P06XgCDm" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-18T06:06:16.969Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="x_REfeYIJTFgE_Sm0ht-" version="24.4.4" type="github">
   <diagram name="Page-1" id="b98fa263-6416-c6ec-5b7d-78bf54ef71d0">
     <mxGraphModel dx="1104" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -146,7 +146,7 @@
         <mxCell id="Tvb6JHg-_AOWFNuAXbLU-31" value="Hủy kết bạn" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="860" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Tvb6JHg-_AOWFNuAXbLU-32" value="Kết bạn" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="Tvb6JHg-_AOWFNuAXbLU-32" value="Gửi kết bạn" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="860" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tvb6JHg-_AOWFNuAXbLU-33" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" parent="1" target="Tvb6JHg-_AOWFNuAXbLU-32" edge="1">
