@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-18T05:16:45.068Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="Gsuzvi2BfiZEZraZu-J8" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-18T05:17:14.248Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="P7LY2O-RlDav8oSpbYrU" version="24.4.4" type="github">
   <diagram name="Page-1" id="b98fa263-6416-c6ec-5b7d-78bf54ef71d0">
-    <mxGraphModel dx="909" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1288" dy="932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -19,7 +19,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="20" y="450" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="20" y="450" />
+              <mxPoint x="20" y="160" />
+              <mxPoint x="20" y="430" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -27,24 +28,24 @@
           <mxGeometry x="40" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tvb6JHg-_AOWFNuAXbLU-5" value="Cập nhật&amp;nbsp;&lt;div&gt;người dùng&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="40" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tvb6JHg-_AOWFNuAXbLU-6" value="Đăng kí" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="40" y="330" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tvb6JHg-_AOWFNuAXbLU-7" value="Đăng nhập" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="40" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tvb6JHg-_AOWFNuAXbLU-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" parent="1" target="Tvb6JHg-_AOWFNuAXbLU-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="20" y="360" as="sourcePoint" />
-            <mxPoint x="400" y="390" as="targetPoint" />
+            <mxPoint x="20" y="340" as="sourcePoint" />
+            <mxPoint x="400" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Tvb6JHg-_AOWFNuAXbLU-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" parent="1" target="Tvb6JHg-_AOWFNuAXbLU-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="20" y="270" as="sourcePoint" />
-            <mxPoint x="50" y="370" as="targetPoint" />
+            <mxPoint x="20" y="250" as="sourcePoint" />
+            <mxPoint x="50" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Tvb6JHg-_AOWFNuAXbLU-10" value="Quản lý nhóm" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
@@ -71,7 +72,7 @@
           <mxGeometry x="830" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tvb6JHg-_AOWFNuAXbLU-14" value="Quản lý gói dịch vụ" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="1029.94" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="1020" y="130" width="140.06" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tvb6JHg-_AOWFNuAXbLU-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" parent="1" target="Tvb6JHg-_AOWFNuAXbLU-24" edge="1">
           <mxGeometry relative="1" as="geometry">
