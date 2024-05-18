@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-17T17:23:46.712Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="-t0PA88gPfc0LEXINxoP" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-18T04:48:25.549Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="7jrn-iISwtjGE5A6wSbB" version="24.4.4" type="github">
   <diagram name="Page-1" id="b98fa263-6416-c6ec-5b7d-78bf54ef71d0">
     <mxGraphModel dx="1013" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -88,7 +88,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Tvb6JHg-_AOWFNuAXbLU-17" value="Xem thành viên" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Tvb6JHg-_AOWFNuAXbLU-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tvb6JHg-_AOWFNuAXbLU-18" value="Xóa nhóm" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -118,7 +118,7 @@
             <mxPoint x="620" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Tvb6JHg-_AOWFNuAXbLU-24" value="Mời vào nhóm" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Tvb6JHg-_AOWFNuAXbLU-24" value="Cập nhật nhóm" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tvb6JHg-_AOWFNuAXbLU-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="Tvb6JHg-_AOWFNuAXbLU-24" edge="1">
