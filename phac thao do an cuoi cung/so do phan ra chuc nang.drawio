@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-18T05:10:05.102Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="Wr1gUTrNBbYvKqz8_skc" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-18T05:10:55.517Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="n14jBKlPkyxFl5XKLuLj" version="24.4.4" type="github">
   <diagram name="Page-1" id="b98fa263-6416-c6ec-5b7d-78bf54ef71d0">
-    <mxGraphModel dx="1688" dy="875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="810" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -172,7 +172,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2t69ATgE38H-RgzgNJfz-7" value="Xóa tin nhắn" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2t69ATgE38H-RgzgNJfz-7" value="Xem tin nhắn" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2t69ATgE38H-RgzgNJfz-8" value="Gửi tin nhắn" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -202,7 +202,7 @@
         <mxCell id="2t69ATgE38H-RgzgNJfz-13" value="Trả lời tin nhắn" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2t69ATgE38H-RgzgNJfz-14" value="Cập nhật tin nhắn" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2t69ATgE38H-RgzgNJfz-14" value="Gửi tệp tin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2t69ATgE38H-RgzgNJfz-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="2t69ATgE38H-RgzgNJfz-14">
@@ -235,10 +235,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2t69ATgE38H-RgzgNJfz-23" value="Xóa nhóm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2t69ATgE38H-RgzgNJfz-23" value="Cập nhật kênh" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2t69ATgE38H-RgzgNJfz-24" value="Tạo nhóm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2t69ATgE38H-RgzgNJfz-24" value="Tạo kênh" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2t69ATgE38H-RgzgNJfz-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="2t69ATgE38H-RgzgNJfz-23">
@@ -253,7 +253,7 @@
             <mxPoint x="450" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2t69ATgE38H-RgzgNJfz-27" value="Tham gia nhóm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2t69ATgE38H-RgzgNJfz-27" value="Tham gia kênh&amp;nbsp; &amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2t69ATgE38H-RgzgNJfz-28" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="2t69ATgE38H-RgzgNJfz-27">
