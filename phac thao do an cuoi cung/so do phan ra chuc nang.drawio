@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-18T05:09:03.994Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="xKsIDMaJQMFOD3r7hJxH" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-18T05:10:05.102Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="Wr1gUTrNBbYvKqz8_skc" version="24.4.4" type="github">
   <diagram name="Page-1" id="b98fa263-6416-c6ec-5b7d-78bf54ef71d0">
     <mxGraphModel dx="1688" dy="875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -217,7 +217,7 @@
             <mxPoint x="699.8" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2t69ATgE38H-RgzgNJfz-20" value="Quản lý nhóm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2t69ATgE38H-RgzgNJfz-20" value="Quản lý kênh" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2t69ATgE38H-RgzgNJfz-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="2t69ATgE38H-RgzgNJfz-20">
