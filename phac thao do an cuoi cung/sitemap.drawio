@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-02T09:02:31.899Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="7Uq1YXoUkQDxZBWb26UV" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-02T09:03:20.142Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="Cy1rFBTU3vQ5oREtl3SG" version="24.4.13" type="github">
   <diagram name="Page-1" id="QAyeYL_2XTEEAl_Yq65o">
     <mxGraphModel dx="2046" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -181,16 +181,16 @@
         <mxCell id="ZNNkebnjid4M2mQt33GQ-53" value="Tạo phòng chat&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZNNkebnjid4M2mQt33GQ-54" value="Phòng chat" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZNNkebnjid4M2mQt33GQ-54" value="Tin nhắn" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZNNkebnjid4M2mQt33GQ-55" value="Danh sách&lt;div&gt;tin nhắn&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="ZNNkebnjid4M2mQt33GQ-55" value="Nhắn tin" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZNNkebnjid4M2mQt33GQ-56" value="Chi tiết&lt;div&gt;phòng chat&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="ZNNkebnjid4M2mQt33GQ-56" value="Cập nhật tin nhắn" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZNNkebnjid4M2mQt33GQ-57" value="Gọi hình ảnh" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="ZNNkebnjid4M2mQt33GQ-57" value="Gửi tệp tin" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZNNkebnjid4M2mQt33GQ-58" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
@@ -229,7 +229,7 @@
             <mxPoint x="40" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZNNkebnjid4M2mQt33GQ-64" value="Tạo phòng chat&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZNNkebnjid4M2mQt33GQ-64" value="Trả lời tin nhắn" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="580" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
