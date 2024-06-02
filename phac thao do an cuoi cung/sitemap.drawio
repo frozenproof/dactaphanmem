@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-02T08:39:57.339Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="9bQD_bi0QR-j3QV14g1I" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-02T08:40:11.225Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="a8A7TUHX_0zOX1N09PW7" version="24.4.13" type="github">
   <diagram name="Page-1" id="QAyeYL_2XTEEAl_Yq65o">
     <mxGraphModel dx="2046" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -46,6 +46,10 @@
         <mxCell id="ZNNkebnjid4M2mQt33GQ-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ZNNkebnjid4M2mQt33GQ-17" source="ZNNkebnjid4M2mQt33GQ-12">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-180" y="290" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-200" y="210" />
+              <mxPoint x="-200" y="370" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ZNNkebnjid4M2mQt33GQ-17" value="Danh sách&amp;nbsp;&lt;div&gt;phòng chat&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
