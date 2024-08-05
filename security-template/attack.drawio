@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 OPR/111.0.0.0" version="24.7.6">
   <diagram name="Page-1" id="R3QL27ZRKSAXmsxr0TTM">
-    <mxGraphModel dx="1333" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1333" dy="2898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -115,7 +115,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="m0V3_cafG3HXBkxv4FI2-27" value="Robot" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=29.5;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="20" y="830" width="241" height="277.5" as="geometry" />
+          <mxGeometry x="120" y="-1100" width="241" height="277.5" as="geometry" />
         </mxCell>
         <mxCell id="m0V3_cafG3HXBkxv4FI2-28" value="- chassis: string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="m0V3_cafG3HXBkxv4FI2-27">
           <mxGeometry y="29.5" width="241" height="30" as="geometry" />
@@ -145,31 +145,31 @@
           <mxGeometry y="247.5" width="241" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m0V3_cafG3HXBkxv4FI2-37" value="Start" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="103" y="1130" width="51" height="51" as="geometry" />
+          <mxGeometry x="553" y="-1427" width="51" height="51" as="geometry" />
         </mxCell>
         <mxCell id="m0V3_cafG3HXBkxv4FI2-38" value="Unlock outer door" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="57" y="1254" width="144" height="144" as="geometry" />
+          <mxGeometry x="507" y="-1303" width="144" height="144" as="geometry" />
         </mxCell>
         <mxCell id="m0V3_cafG3HXBkxv4FI2-39" value="Enter airlock" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="75" y="1470" width="108" height="108" as="geometry" />
+          <mxGeometry x="525" y="-1087" width="108" height="108" as="geometry" />
         </mxCell>
         <mxCell id="m0V3_cafG3HXBkxv4FI2-40" value="Unlock inner door" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="58" y="1650" width="143" height="143" as="geometry" />
+          <mxGeometry x="508" y="-907" width="143" height="143" as="geometry" />
         </mxCell>
         <mxCell id="m0V3_cafG3HXBkxv4FI2-41" value="Unlock control room door" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="30" y="1865" width="198" height="198" as="geometry" />
+          <mxGeometry x="480" y="-692" width="198" height="198" as="geometry" />
         </mxCell>
         <mxCell id="m0V3_cafG3HXBkxv4FI2-42" value="Unlock treasure room door" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="24" y="2135" width="209" height="209" as="geometry" />
+          <mxGeometry x="474" y="-422" width="209" height="209" as="geometry" />
         </mxCell>
         <mxCell id="m0V3_cafG3HXBkxv4FI2-43" value="Unlock secret chamber door" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="20" y="2416" width="218" height="218" as="geometry" />
+          <mxGeometry x="470" y="-141" width="218" height="218" as="geometry" />
         </mxCell>
         <mxCell id="m0V3_cafG3HXBkxv4FI2-44" value="Unlock escape pod door" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="36" y="2706" width="186" height="186" as="geometry" />
+          <mxGeometry x="486" y="149" width="186" height="186" as="geometry" />
         </mxCell>
         <mxCell id="m0V3_cafG3HXBkxv4FI2-45" value="Exit to space" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="74" y="2965" width="110" height="110" as="geometry" />
+          <mxGeometry x="524" y="408" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="m0V3_cafG3HXBkxv4FI2-46" value="Press Button" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="m0V3_cafG3HXBkxv4FI2-37" target="m0V3_cafG3HXBkxv4FI2-38">
           <mxGeometry relative="1" as="geometry">
