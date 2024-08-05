@@ -265,6 +265,89 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="m0V3_cafG3HXBkxv4FI2-212" value="Start" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="246" y="2280" width="51" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="m0V3_cafG3HXBkxv4FI2-213" value="Roasting cacao beans" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="186" y="2368" width="171" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="m0V3_cafG3HXBkxv4FI2-214" value="Grinding roasted cacao beans" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="156" y="2455" width="231" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="m0V3_cafG3HXBkxv4FI2-215" value="Mixing ground cacao beans with sugar, milk, and other ingredients" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="2543" width="503" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="m0V3_cafG3HXBkxv4FI2-216" value="Conching the mixture" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="185" y="2630" width="173" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="m0V3_cafG3HXBkxv4FI2-217" value="Tempering the chocolate" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="174" y="2718" width="194" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="m0V3_cafG3HXBkxv4FI2-218" value="Molding the chocolate into various shapes" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="111" y="2805" width="321" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="m0V3_cafG3HXBkxv4FI2-219" value="Cooling" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="237" y="2893" width="69" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="m0V3_cafG3HXBkxv4FI2-220" value="Wrapping the chocolate" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="178" y="2980" width="186" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="m0V3_cafG3HXBkxv4FI2-221" value="Shipping" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="233" y="3068" width="78" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="m0V3_cafG3HXBkxv4FI2-222" value="End" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="251" y="3155" width="41" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="m0V3_cafG3HXBkxv4FI2-223" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="m0V3_cafG3HXBkxv4FI2-212" target="m0V3_cafG3HXBkxv4FI2-213">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0V3_cafG3HXBkxv4FI2-224" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.97;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="m0V3_cafG3HXBkxv4FI2-213" target="m0V3_cafG3HXBkxv4FI2-214">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0V3_cafG3HXBkxv4FI2-225" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="m0V3_cafG3HXBkxv4FI2-214" target="m0V3_cafG3HXBkxv4FI2-215">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0V3_cafG3HXBkxv4FI2-226" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.97;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="m0V3_cafG3HXBkxv4FI2-215" target="m0V3_cafG3HXBkxv4FI2-216">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0V3_cafG3HXBkxv4FI2-227" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="m0V3_cafG3HXBkxv4FI2-216" target="m0V3_cafG3HXBkxv4FI2-217">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0V3_cafG3HXBkxv4FI2-228" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.97;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="m0V3_cafG3HXBkxv4FI2-217" target="m0V3_cafG3HXBkxv4FI2-218">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0V3_cafG3HXBkxv4FI2-229" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="m0V3_cafG3HXBkxv4FI2-218" target="m0V3_cafG3HXBkxv4FI2-219">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0V3_cafG3HXBkxv4FI2-230" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.97;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="m0V3_cafG3HXBkxv4FI2-219" target="m0V3_cafG3HXBkxv4FI2-220">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0V3_cafG3HXBkxv4FI2-231" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.49;entryY=-0.01;rounded=0;" edge="1" parent="1" source="m0V3_cafG3HXBkxv4FI2-220" target="m0V3_cafG3HXBkxv4FI2-221">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0V3_cafG3HXBkxv4FI2-232" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=0.97;entryX=0.49;entryY=0;rounded=0;" edge="1" parent="1" source="m0V3_cafG3HXBkxv4FI2-221" target="m0V3_cafG3HXBkxv4FI2-222">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
