@@ -348,6 +348,78 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="m0V3_cafG3HXBkxv4FI2-285" value="Locate target alien" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="181" y="3210" width="154" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="m0V3_cafG3HXBkxv4FI2-286" value="Assemble assassination team" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="143" y="3298" width="230" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="m0V3_cafG3HXBkxv4FI2-287" value="Obtain weapons" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="174" y="3385" width="169" height="169" as="geometry" />
+        </mxCell>
+        <mxCell id="m0V3_cafG3HXBkxv4FI2-288" value="Acquire advanced technology" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="3604" width="226" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="m0V3_cafG3HXBkxv4FI2-289" value="Steal alien technology" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="296" y="3604" width="174" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="m0V3_cafG3HXBkxv4FI2-290" value="Develop specialized weapons" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="146" y="3691" width="225" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="m0V3_cafG3HXBkxv4FI2-291" value="Plan attack strategy" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="178" y="3779" width="161" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="m0V3_cafG3HXBkxv4FI2-292" value="Execute operation" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="184" y="3866" width="148" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="m0V3_cafG3HXBkxv4FI2-293" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="m0V3_cafG3HXBkxv4FI2-285" target="m0V3_cafG3HXBkxv4FI2-286">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0V3_cafG3HXBkxv4FI2-294" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.97;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="m0V3_cafG3HXBkxv4FI2-286" target="m0V3_cafG3HXBkxv4FI2-287">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0V3_cafG3HXBkxv4FI2-295" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.94;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="m0V3_cafG3HXBkxv4FI2-287" target="m0V3_cafG3HXBkxv4FI2-288">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="133" y="3579" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0V3_cafG3HXBkxv4FI2-296" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.94;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="m0V3_cafG3HXBkxv4FI2-287" target="m0V3_cafG3HXBkxv4FI2-289">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="383" y="3579" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0V3_cafG3HXBkxv4FI2-297" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.26;entryY=0.01;rounded=0;" edge="1" parent="1" source="m0V3_cafG3HXBkxv4FI2-288" target="m0V3_cafG3HXBkxv4FI2-290">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="133" y="3666" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0V3_cafG3HXBkxv4FI2-298" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.74;entryY=0.01;rounded=0;" edge="1" parent="1" source="m0V3_cafG3HXBkxv4FI2-289" target="m0V3_cafG3HXBkxv4FI2-290">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="383" y="3666" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0V3_cafG3HXBkxv4FI2-299" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="m0V3_cafG3HXBkxv4FI2-290" target="m0V3_cafG3HXBkxv4FI2-291">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0V3_cafG3HXBkxv4FI2-300" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="m0V3_cafG3HXBkxv4FI2-291" target="m0V3_cafG3HXBkxv4FI2-292">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
