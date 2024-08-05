@@ -114,6 +114,36 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="m0V3_cafG3HXBkxv4FI2-27" value="Robot" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=29.5;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="830" width="241" height="277.5" as="geometry" />
+        </mxCell>
+        <mxCell id="m0V3_cafG3HXBkxv4FI2-28" value="- chassis: string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="m0V3_cafG3HXBkxv4FI2-27">
+          <mxGeometry y="29.5" width="241" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m0V3_cafG3HXBkxv4FI2-29" value="- wheels: integer" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="m0V3_cafG3HXBkxv4FI2-27">
+          <mxGeometry y="59.5" width="241" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m0V3_cafG3HXBkxv4FI2-30" value="- sensors: array" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="m0V3_cafG3HXBkxv4FI2-27">
+          <mxGeometry y="89.5" width="241" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m0V3_cafG3HXBkxv4FI2-31" value="- processor: string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="m0V3_cafG3HXBkxv4FI2-27">
+          <mxGeometry y="119.5" width="241" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m0V3_cafG3HXBkxv4FI2-32" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="m0V3_cafG3HXBkxv4FI2-27">
+          <mxGeometry y="149.5" width="241" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="m0V3_cafG3HXBkxv4FI2-33" value="+move(distance: float) : : void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="m0V3_cafG3HXBkxv4FI2-27">
+          <mxGeometry y="157.5" width="241" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m0V3_cafG3HXBkxv4FI2-34" value="+detectObstacle() : : void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="m0V3_cafG3HXBkxv4FI2-27">
+          <mxGeometry y="187.5" width="241" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m0V3_cafG3HXBkxv4FI2-35" value="+analyzeEnvironment() : : void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="m0V3_cafG3HXBkxv4FI2-27">
+          <mxGeometry y="217.5" width="241" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m0V3_cafG3HXBkxv4FI2-36" value="+communicate() : : void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="m0V3_cafG3HXBkxv4FI2-27">
+          <mxGeometry y="247.5" width="241" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
