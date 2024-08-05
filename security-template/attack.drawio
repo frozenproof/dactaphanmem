@@ -19,6 +19,11 @@
         <mxCell id="m0V3_cafG3HXBkxv4FI2-158" value="Assess surroundings" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="243" y="734" width="163" height="38" as="geometry" />
         </mxCell>
+        <mxCell id="SsZHhjjecD1MKSMmekDV-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="m0V3_cafG3HXBkxv4FI2-159">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="20" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="m0V3_cafG3HXBkxv4FI2-159" value="Engage in combat" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="251" y="821" width="145" height="38" as="geometry" />
         </mxCell>
