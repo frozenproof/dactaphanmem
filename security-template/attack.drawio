@@ -79,6 +79,41 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="m0V3_cafG3HXBkxv4FI2-18" value="Observe Alien" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="701" width="115" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="m0V3_cafG3HXBkxv4FI2-19" value="Identify Vulnerabilities" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="319" y="630" width="179" height="179" as="geometry" />
+        </mxCell>
+        <mxCell id="m0V3_cafG3HXBkxv4FI2-20" value="Plan Attack" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="745" y="701" width="96" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="m0V3_cafG3HXBkxv4FI2-21" value="Kill Alien" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="701" width="76" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="m0V3_cafG3HXBkxv4FI2-22" value="Cover up Evidence" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1221" y="701" width="150" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="m0V3_cafG3HXBkxv4FI2-23" value="Study Weaknesses" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.48;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="m0V3_cafG3HXBkxv4FI2-18" target="m0V3_cafG3HXBkxv4FI2-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0V3_cafG3HXBkxv4FI2-24" value="Prepare Tools and Weapons" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.48;rounded=0;" edge="1" parent="1" source="m0V3_cafG3HXBkxv4FI2-19" target="m0V3_cafG3HXBkxv4FI2-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0V3_cafG3HXBkxv4FI2-25" value="Execute Attack" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.48;entryX=0;entryY=0.48;rounded=0;" edge="1" parent="1" source="m0V3_cafG3HXBkxv4FI2-20" target="m0V3_cafG3HXBkxv4FI2-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0V3_cafG3HXBkxv4FI2-26" value="Dispose Body" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.48;entryX=0;entryY=0.48;rounded=0;" edge="1" parent="1" source="m0V3_cafG3HXBkxv4FI2-21" target="m0V3_cafG3HXBkxv4FI2-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
