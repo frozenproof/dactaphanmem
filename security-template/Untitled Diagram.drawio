@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net" modified="2024-08-05T02:56:08.864Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 OPR/111.0.0.0" version="24.4.14" etag="VE8vPsSJAhWUEGkx7uYG" type="github">
+  <diagram name="Page-1" id="eic4TY1cFpp2CoroSprf">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Security Diode" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="179" width="144" height="308" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Diode" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="204" y="35" width="94" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Diode" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="204" y="179" width="94" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Kafka" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="373" y="17" width="104" height="274" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="Kafka" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="398" y="52" width="54" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="Kafka" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="398" y="196" width="54" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="Database" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry y="28" width="129" height="242" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="Database" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="25" y="121" width="79" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.8744590181841629;exitY=-0.000334248398289536;entryX=0;entryY=0.5;" edge="1" parent="1" source="9" target="3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="129" y="82" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.8744590181841629;exitY=1.0003342483982895;entryX=0;entryY=0.5;" edge="1" parent="1" source="9" target="4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="129" y="226" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="3" target="6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="4" target="7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
