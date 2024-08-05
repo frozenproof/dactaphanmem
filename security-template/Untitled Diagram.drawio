@@ -1,117 +1,107 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 OPR/111.0.0.0" version="24.7.6">
-  <diagram name="Page-1" id="x670s51QySL0bSvsHmIQ">
+  <diagram name="Page-1" id="qL7MdqtLs0UXeb57ihnb">
     <mxGraphModel>
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" value="Side B" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="309" width="162" height="274" as="geometry" />
+        <mxCell id="2" value="Receiver Side" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry width="554" height="473" as="geometry" />
         </mxCell>
-        <mxCell id="3" value="Application Layer" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="328" y="20" width="124" height="107" as="geometry" />
+        <mxCell id="3" value="Application" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="2">
+          <mxGeometry x="61" y="360" width="95" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="4" value="Communication Layer" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="313" y="147" width="154" height="107" as="geometry" />
+        <mxCell id="4" value="Kafka 2" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="2">
+          <mxGeometry x="253" y="33" width="67" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="5" value="Diode" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="362" y="182" width="57" height="37" as="geometry" />
+        <mxCell id="5" value="Kafka 1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="2">
+          <mxGeometry x="253" y="142" width="67" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="6" value="Kafka2" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="359" y="55" width="62" height="37" as="geometry" />
+        <mxCell id="6" value="Diode" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="2">
+          <mxGeometry x="258" y="251" width="57" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="7" value="Side A" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry y="294" width="650" height="404" as="geometry" />
+        <mxCell id="7" value="Cache" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="2">
+          <mxGeometry x="257" y="389" width="59" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="8" value="Application Layer" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="334" y="394" width="291" height="284" as="geometry" />
+        <mxCell id="8" value="Database" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="2">
+          <mxGeometry x="424" y="389" width="79" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="9" value="Communication Layer" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="-15" y="314" width="154" height="346" as="geometry" />
+        <mxCell id="9" value="Encrypted Connection" style="curved=1;startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="2" source="4" target="5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="10" value="B" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="50" y="439" width="24" height="37" as="geometry" />
+        <mxCell id="10" value="Encrypted Connection" style="curved=1;startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="2" source="5" target="6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="11" value="Database" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="521" y="432" width="79" height="37" as="geometry" />
+        <mxCell id="11" value="Encrypted Connection" style="curved=1;startArrow=none;endArrow=none;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="2" source="6" target="7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="12" value="A" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="378" y="580" width="24" height="37" as="geometry" />
-        </mxCell>
-        <mxCell id="13" value="Cache" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="531" y="519" width="59" height="37" as="geometry" />
-        </mxCell>
-        <mxCell id="14" value="Kafka1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="530" y="606" width="62" height="37" as="geometry" />
-        </mxCell>
-        <mxCell id="15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.88;exitY=-0.01;entryX=0.05;entryY=1.01;" edge="1" parent="1" source="12" target="11">
+        <mxCell id="12" value="Encrypted Connection" style="curved=1;startArrow=none;endArrow=none;exitX=1;exitY=0.74;entryX=0.5;entryY=0;" edge="1" parent="2" source="6" target="8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="446" y="484" />
-              <mxPoint x="496" y="484" />
+              <mxPoint x="464" y="324" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.29;entryX=0;entryY=0.84;" edge="1" parent="1" source="12" target="13">
+        <mxCell id="13" value="End-to-End Encryption" style="curved=1;startArrow=none;endArrow=none;exitX=0;exitY=0.74;entryX=0.49;entryY=0;" edge="1" parent="2" source="6" target="3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="446" y="565" />
-              <mxPoint x="496" y="565" />
+              <mxPoint x="108" y="324" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.64;entryX=-0.01;entryY=0.51;" edge="1" parent="1" source="12" target="14">
+        <mxCell id="14" value="Sender Side" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry y="523" width="554" height="473" as="geometry" />
+        </mxCell>
+        <mxCell id="15" value="Application" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="14">
+          <mxGeometry x="61" y="33" width="95" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="16" value="Diode" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="14">
+          <mxGeometry x="258" y="200" width="57" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="17" value="Database" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="14">
+          <mxGeometry x="247" y="62" width="79" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="18" value="Cache" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="14">
+          <mxGeometry x="434" y="62" width="59" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="19" value="Kafka 1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="14">
+          <mxGeometry x="253" y="309" width="67" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="20" value="Kafka 2" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="14">
+          <mxGeometry x="253" y="418" width="67" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="21" value="End-to-End Encryption" style="curved=1;startArrow=none;endArrow=none;exitX=0.49;exitY=-4.51;entryX=0;entryY=-13.87;" edge="1" parent="14" source="15" target="16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="446" y="625" />
+              <mxPoint x="108" y="164" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="18" value="End-to-End Encryption" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.19;entryX=0.82;entryY=1.01;" edge="1" parent="1" source="12" target="10">
+        <mxCell id="22" value="Encrypted Connection" style="curved=1;startArrow=none;endArrow=none;exitX=0.5;exitY=-13.14;entryX=0.5;entryY=-14.14;" edge="1" parent="14" source="17" target="16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="23" value="Encrypted Connection" style="curved=1;startArrow=none;endArrow=none;exitX=0.5;exitY=-13.14;entryX=1;entryY=-13.87;" edge="1" parent="14" source="18" target="16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="334" y="547" />
-              <mxPoint x="99" y="547" />
+              <mxPoint x="464" y="164" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.36;entryX=0;entryY=0.34;" edge="1" parent="1" source="10" target="11">
+        <mxCell id="24" value="Encrypted Connection" style="curved=1;startArrow=none;endArrow=none;exitX=0.5;exitY=-13.14;entryX=0.5;entryY=-14.14;" edge="1" parent="14" source="16" target="19">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="99" y="441" />
-              <mxPoint x="496" y="441" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.91;entryX=0;entryY=0.09;" edge="1" parent="1" source="10" target="13">
+        <mxCell id="25" value="Encrypted Connection" style="curved=1;startArrow=none;endArrow=none;exitX=0.5;exitY=-13.14;entryX=0.5;entryY=-14.14;" edge="1" parent="14" source="19" target="20">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="99" y="504" />
-              <mxPoint x="496" y="504" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.77;exitY=0.01;entryX=0.44;entryY=1;" edge="1" parent="1" source="10" target="6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="99" y="354" />
-              <mxPoint x="334" y="354" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="22" value="End-to-End Encryption" style="curved=1;startArrow=none;endArrow=block;exitX=0.67;exitY=1.01;entryX=0;entryY=0.67;" edge="1" parent="1" source="10" target="12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="99" y="629" />
-              <mxPoint x="334" y="629" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.84;exitY=0.01;entryX=0.39;entryY=1;" edge="1" parent="1" source="10" target="5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="99" y="374" />
-              <mxPoint x="334" y="374" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
