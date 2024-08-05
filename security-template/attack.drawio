@@ -788,6 +788,97 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="K5x0BUtX9th007uARd9N-52" value="Collect raw honey and cocoa beans" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="642" y="114" width="268" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="K5x0BUtX9th007uARd9N-53" value="Roast cocoa beans" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="702" y="202" width="149" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="K5x0BUtX9th007uARd9N-54" value="Grind cocoa beans" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="702" y="289" width="149" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="K5x0BUtX9th007uARd9N-55" value="Mix ground cocoa beans with honey" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="639" y="377" width="274" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="K5x0BUtX9th007uARd9N-56" value="Add additional cocoa butter" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="668" y="464" width="216" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="K5x0BUtX9th007uARd9N-57" value="Blend mixture" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="718" y="552" width="116" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="K5x0BUtX9th007uARd9N-58" value="Conche mixture" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="711" y="639" width="130" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="K5x0BUtX9th007uARd9N-59" value="Temper mixture" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="710" y="727" width="131" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="K5x0BUtX9th007uARd9N-60" value="Pour mixture into molds" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="681" y="814" width="190" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="K5x0BUtX9th007uARd9N-61" value="Allow mixture to set" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="695" y="902" width="163" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="K5x0BUtX9th007uARd9N-62" value="Remove chocolate from molds" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="659" y="989" width="234" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="K5x0BUtX9th007uARd9N-63" value="Package chocolate" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="702" y="1077" width="148" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="K5x0BUtX9th007uARd9N-64" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="K5x0BUtX9th007uARd9N-52" target="K5x0BUtX9th007uARd9N-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K5x0BUtX9th007uARd9N-65" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.97;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="K5x0BUtX9th007uARd9N-53" target="K5x0BUtX9th007uARd9N-54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K5x0BUtX9th007uARd9N-66" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="K5x0BUtX9th007uARd9N-54" target="K5x0BUtX9th007uARd9N-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K5x0BUtX9th007uARd9N-67" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.97;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="K5x0BUtX9th007uARd9N-55" target="K5x0BUtX9th007uARd9N-56">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K5x0BUtX9th007uARd9N-68" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="K5x0BUtX9th007uARd9N-56" target="K5x0BUtX9th007uARd9N-57">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K5x0BUtX9th007uARd9N-69" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.97;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="K5x0BUtX9th007uARd9N-57" target="K5x0BUtX9th007uARd9N-58">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K5x0BUtX9th007uARd9N-70" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="K5x0BUtX9th007uARd9N-58" target="K5x0BUtX9th007uARd9N-59">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K5x0BUtX9th007uARd9N-71" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.97;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="K5x0BUtX9th007uARd9N-59" target="K5x0BUtX9th007uARd9N-60">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K5x0BUtX9th007uARd9N-72" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="K5x0BUtX9th007uARd9N-60" target="K5x0BUtX9th007uARd9N-61">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K5x0BUtX9th007uARd9N-73" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.97;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="K5x0BUtX9th007uARd9N-61" target="K5x0BUtX9th007uARd9N-62">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K5x0BUtX9th007uARd9N-74" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="K5x0BUtX9th007uARd9N-62" target="K5x0BUtX9th007uARd9N-63">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
