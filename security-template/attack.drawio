@@ -1013,6 +1013,69 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="IQHX6UZ3WUo_S2QJ8UEg-35" value="Prepare ammunition" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-349" y="1740" width="163" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="IQHX6UZ3WUo_S2QJ8UEg-36" value="Insert magazine" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-406" y="1850" width="133" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="IQHX6UZ3WUo_S2QJ8UEg-37" value="Pull charging handle" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="1960" width="160" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="IQHX6UZ3WUo_S2QJ8UEg-38" value="Align sights" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="2070" width="100" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="IQHX6UZ3WUo_S2QJ8UEg-39" value="Shoot" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-368" y="2180" width="56" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="IQHX6UZ3WUo_S2QJ8UEg-40" value="Reset trigger" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-395" y="2290" width="110" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="IQHX6UZ3WUo_S2QJ8UEg-41" value="G" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-281" y="2400" width="26" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="IQHX6UZ3WUo_S2QJ8UEg-42" value="Load magazine" style="curved=1;startArrow=none;endArrow=block;exitX=0.35;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="IQHX6UZ3WUo_S2QJ8UEg-35" target="IQHX6UZ3WUo_S2QJ8UEg-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-340" y="1814" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQHX6UZ3WUo_S2QJ8UEg-43" value="Rack slide" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="IQHX6UZ3WUo_S2QJ8UEg-36" target="IQHX6UZ3WUo_S2QJ8UEg-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQHX6UZ3WUo_S2QJ8UEg-44" value="Aim target" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="IQHX6UZ3WUo_S2QJ8UEg-37" target="IQHX6UZ3WUo_S2QJ8UEg-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQHX6UZ3WUo_S2QJ8UEg-45" value="Fire" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="IQHX6UZ3WUo_S2QJ8UEg-38" target="IQHX6UZ3WUo_S2QJ8UEg-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQHX6UZ3WUo_S2QJ8UEg-46" value="Release trigger" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="IQHX6UZ3WUo_S2QJ8UEg-39" target="IQHX6UZ3WUo_S2QJ8UEg-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQHX6UZ3WUo_S2QJ8UEg-47" value="Repeat" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.01;entryY=0.23;rounded=0;" edge="1" parent="1" source="IQHX6UZ3WUo_S2QJ8UEg-40" target="IQHX6UZ3WUo_S2QJ8UEg-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-340" y="2364" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQHX6UZ3WUo_S2QJ8UEg-48" value="Empty magazine" style="curved=1;startArrow=none;endArrow=block;exitX=1.02;exitY=0.23;entryX=0.65;entryY=0.99;rounded=0;" edge="1" parent="1" source="IQHX6UZ3WUo_S2QJ8UEg-41" target="IQHX6UZ3WUo_S2QJ8UEg-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-195" y="2364" />
+              <mxPoint x="-195" y="1814" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
