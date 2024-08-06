@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 OPR/111.0.0.0" version="24.7.6">
   <diagram name="Page-1" id="R3QL27ZRKSAXmsxr0TTM">
-    <mxGraphModel dx="1333" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="6182" dy="2792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -942,6 +942,73 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IQHX6UZ3WUo_S2QJ8UEg-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.51;entryY=-0.01;rounded=0;" edge="1" parent="1" source="IQHX6UZ3WUo_S2QJ8UEg-8" target="IQHX6UZ3WUo_S2QJ8UEg-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQHX6UZ3WUo_S2QJ8UEg-18" value="Select Donor Sperm" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-94" y="1538" width="158" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="IQHX6UZ3WUo_S2QJ8UEg-19" value="Preparation of Recipient" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-111" y="1648" width="191" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="IQHX6UZ3WUo_S2QJ8UEg-20" value="Insertion of Speculum" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-102" y="1758" width="174" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="IQHX6UZ3WUo_S2QJ8UEg-21" value="Cleaning the Cervix" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-94" y="1868" width="159" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="IQHX6UZ3WUo_S2QJ8UEg-22" value="Placement of Catheter" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-104" y="1978" width="179" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="IQHX6UZ3WUo_S2QJ8UEg-23" value="Injection of Donor Sperm" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-114" y="2088" width="199" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="IQHX6UZ3WUo_S2QJ8UEg-24" value="Wait" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-39" y="2198" width="49" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="IQHX6UZ3WUo_S2QJ8UEg-25" value="Removal of Speculum and Catheter" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="2308" width="270" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="IQHX6UZ3WUo_S2QJ8UEg-26" value="Post-procedure Care" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-96" y="2418" width="163" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="IQHX6UZ3WUo_S2QJ8UEg-27" value="Step 1" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="IQHX6UZ3WUo_S2QJ8UEg-18" target="IQHX6UZ3WUo_S2QJ8UEg-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQHX6UZ3WUo_S2QJ8UEg-28" value="Step 2" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="IQHX6UZ3WUo_S2QJ8UEg-19" target="IQHX6UZ3WUo_S2QJ8UEg-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQHX6UZ3WUo_S2QJ8UEg-29" value="Step 3" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="IQHX6UZ3WUo_S2QJ8UEg-20" target="IQHX6UZ3WUo_S2QJ8UEg-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQHX6UZ3WUo_S2QJ8UEg-30" value="Step 4" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="IQHX6UZ3WUo_S2QJ8UEg-21" target="IQHX6UZ3WUo_S2QJ8UEg-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQHX6UZ3WUo_S2QJ8UEg-31" value="Step 5" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="IQHX6UZ3WUo_S2QJ8UEg-22" target="IQHX6UZ3WUo_S2QJ8UEg-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQHX6UZ3WUo_S2QJ8UEg-32" value="Step 6" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.49;entryY=0;rounded=0;" edge="1" parent="1" source="IQHX6UZ3WUo_S2QJ8UEg-23" target="IQHX6UZ3WUo_S2QJ8UEg-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQHX6UZ3WUo_S2QJ8UEg-33" value="Step 7" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="IQHX6UZ3WUo_S2QJ8UEg-24" target="IQHX6UZ3WUo_S2QJ8UEg-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQHX6UZ3WUo_S2QJ8UEg-34" value="Step 8" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="IQHX6UZ3WUo_S2QJ8UEg-25" target="IQHX6UZ3WUo_S2QJ8UEg-26">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
