@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 OPR/111.0.0.0" version="24.7.6">
   <diagram name="Page-1" id="R3QL27ZRKSAXmsxr0TTM">
-    <mxGraphModel dx="6182" dy="2792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4659" dy="1994" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -546,31 +546,31 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="K5x0BUtX9th007uARd9N-1" value="Birth" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="36" y="3130" width="261" height="175" as="geometry" />
+          <mxGeometry x="-114" y="1352" width="261" height="175" as="geometry" />
         </mxCell>
         <mxCell id="K5x0BUtX9th007uARd9N-2" value="Birth of hybrid offspring" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="71" y="3155" width="191" height="38" as="geometry" />
+          <mxGeometry x="-79" y="1377" width="191" height="38" as="geometry" />
         </mxCell>
         <mxCell id="K5x0BUtX9th007uARd9N-3" value="Caring for offspring" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="86" y="3243" width="160" height="38" as="geometry" />
+          <mxGeometry x="-64" y="1465" width="160" height="38" as="geometry" />
         </mxCell>
         <mxCell id="K5x0BUtX9th007uARd9N-4" value="Implantation" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="20" y="2905" width="293" height="175" as="geometry" />
+          <mxGeometry x="-130" y="1127" width="293" height="175" as="geometry" />
         </mxCell>
         <mxCell id="K5x0BUtX9th007uARd9N-5" value="Transfer embryo into animal" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="55" y="2930" width="223" height="38" as="geometry" />
+          <mxGeometry x="-95" y="1152" width="223" height="38" as="geometry" />
         </mxCell>
         <mxCell id="K5x0BUtX9th007uARd9N-6" value="Monitor pregnancy" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="91" y="3018" width="150" height="38" as="geometry" />
+          <mxGeometry x="-59" y="1240" width="150" height="38" as="geometry" />
         </mxCell>
         <mxCell id="K5x0BUtX9th007uARd9N-7" value="Prepare" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="40" y="2680" width="253" height="175" as="geometry" />
+          <mxGeometry x="-110" y="902" width="253" height="175" as="geometry" />
         </mxCell>
         <mxCell id="K5x0BUtX9th007uARd9N-8" value="Prepare egg and sperm" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="75" y="2705" width="183" height="38" as="geometry" />
+          <mxGeometry x="-75" y="927" width="183" height="38" as="geometry" />
         </mxCell>
         <mxCell id="K5x0BUtX9th007uARd9N-9" value="Inject sperm into egg" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="80" y="2793" width="173" height="38" as="geometry" />
+          <mxGeometry x="-70" y="1015" width="173" height="38" as="geometry" />
         </mxCell>
         <mxCell id="K5x0BUtX9th007uARd9N-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="K5x0BUtX9th007uARd9N-8" target="K5x0BUtX9th007uARd9N-9" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -598,55 +598,55 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="K5x0BUtX9th007uARd9N-15" value="Start" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="20" y="3860" width="51" height="38" as="geometry" />
+          <mxGeometry x="-763.5" y="3270" width="51" height="38" as="geometry" />
         </mxCell>
         <mxCell id="K5x0BUtX9th007uARd9N-16" value="Is human property collected?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="121" y="3748" width="260" height="260" as="geometry" />
+          <mxGeometry x="-662.5" y="3158" width="260" height="260" as="geometry" />
         </mxCell>
         <mxCell id="K5x0BUtX9th007uARd9N-17" value="Collect human property" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="455" y="3816" width="184" height="38" as="geometry" />
+          <mxGeometry x="-328.5" y="3226" width="184" height="38" as="geometry" />
         </mxCell>
         <mxCell id="K5x0BUtX9th007uARd9N-18" value="Is human property viable?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="689" y="3637" width="240" height="240" as="geometry" />
+          <mxGeometry x="-94.5" y="3047" width="240" height="240" as="geometry" />
         </mxCell>
         <mxCell id="K5x0BUtX9th007uARd9N-19" value="Prepare donor" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1072" y="3717" width="116" height="38" as="geometry" />
+          <mxGeometry x="288.5" y="3127" width="116" height="38" as="geometry" />
         </mxCell>
         <mxCell id="K5x0BUtX9th007uARd9N-20" value="Semen collection" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1308" y="3717" width="138" height="38" as="geometry" />
+          <mxGeometry x="524.5" y="3127" width="138" height="38" as="geometry" />
         </mxCell>
         <mxCell id="K5x0BUtX9th007uARd9N-21" value="Is semen quality acceptable?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1495" y="3523" width="260" height="260" as="geometry" />
+          <mxGeometry x="711.5" y="2933" width="260" height="260" as="geometry" />
         </mxCell>
         <mxCell id="K5x0BUtX9th007uARd9N-22" value="Fertilization process" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1867" y="3613" width="164" height="38" as="geometry" />
+          <mxGeometry x="1083.5" y="3023" width="164" height="38" as="geometry" />
         </mxCell>
         <mxCell id="K5x0BUtX9th007uARd9N-23" value="Is fertilization successful?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="2119" y="3434" width="241" height="241" as="geometry" />
+          <mxGeometry x="1335.5" y="2844" width="241" height="241" as="geometry" />
         </mxCell>
         <mxCell id="K5x0BUtX9th007uARd9N-24" value="Implantation process" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="2441" y="3514" width="168" height="38" as="geometry" />
+          <mxGeometry x="1657.5" y="2924" width="168" height="38" as="geometry" />
         </mxCell>
         <mxCell id="K5x0BUtX9th007uARd9N-25" value="Is implantation successful?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="2666" y="3330" width="248" height="248" as="geometry" />
+          <mxGeometry x="1882.5" y="2740" width="248" height="248" as="geometry" />
         </mxCell>
         <mxCell id="K5x0BUtX9th007uARd9N-26" value="Monitor pregnancy" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="3007" y="3414" width="150" height="38" as="geometry" />
+          <mxGeometry x="2223.5" y="2824" width="150" height="38" as="geometry" />
         </mxCell>
         <mxCell id="K5x0BUtX9th007uARd9N-27" value="Reattempt implantation" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="2988" y="3578" width="189" height="38" as="geometry" />
+          <mxGeometry x="2204.5" y="2988" width="189" height="38" as="geometry" />
         </mxCell>
         <mxCell id="K5x0BUtX9th007uARd9N-28" value="Reattempt fertilization" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="2434" y="3676" width="183" height="38" as="geometry" />
+          <mxGeometry x="1650.5" y="3086" width="183" height="38" as="geometry" />
         </mxCell>
         <mxCell id="K5x0BUtX9th007uARd9N-29" value="Seek alternative semen source" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1829" y="3784" width="240" height="38" as="geometry" />
+          <mxGeometry x="1045.5" y="3194" width="240" height="38" as="geometry" />
         </mxCell>
         <mxCell id="K5x0BUtX9th007uARd9N-30" value="Seek alternative human property" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1003" y="3878" width="255" height="38" as="geometry" />
+          <mxGeometry x="219.5" y="3288" width="255" height="38" as="geometry" />
         </mxCell>
         <mxCell id="K5x0BUtX9th007uARd9N-31" value="End" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="526" y="3903" width="41" height="38" as="geometry" />
+          <mxGeometry x="-257.5" y="3313" width="41" height="38" as="geometry" />
         </mxCell>
         <mxCell id="K5x0BUtX9th007uARd9N-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.5;rounded=0;" parent="1" source="K5x0BUtX9th007uARd9N-15" target="K5x0BUtX9th007uARd9N-16" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -656,21 +656,21 @@
         <mxCell id="K5x0BUtX9th007uARd9N-33" value="Yes" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.37;entryX=0;entryY=0.49;rounded=0;" parent="1" source="K5x0BUtX9th007uARd9N-16" target="K5x0BUtX9th007uARd9N-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="418" y="3835" />
+              <mxPoint x="-365.5" y="3245" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="K5x0BUtX9th007uARd9N-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.65;exitY=0;entryX=0;entryY=0.5;rounded=0;" parent="1" source="K5x0BUtX9th007uARd9N-17" target="K5x0BUtX9th007uARd9N-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="664" y="3757" />
+              <mxPoint x="-119.5" y="3167" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="K5x0BUtX9th007uARd9N-35" value="Yes" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.43;entryX=0;entryY=0.5;rounded=0;" parent="1" source="K5x0BUtX9th007uARd9N-18" target="K5x0BUtX9th007uARd9N-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="966" y="3736" />
+              <mxPoint x="182.5" y="3146" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -682,109 +682,109 @@
         <mxCell id="K5x0BUtX9th007uARd9N-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.65;exitY=0;entryX=0;entryY=0.5;rounded=0;" parent="1" source="K5x0BUtX9th007uARd9N-20" target="K5x0BUtX9th007uARd9N-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1470" y="3653" />
+              <mxPoint x="686.5" y="3063" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="K5x0BUtX9th007uARd9N-38" value="Yes" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.44;entryX=0;entryY=0.5;rounded=0;" parent="1" source="K5x0BUtX9th007uARd9N-21" target="K5x0BUtX9th007uARd9N-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1792" y="3632" />
+              <mxPoint x="1008.5" y="3042" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="K5x0BUtX9th007uARd9N-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.71;exitY=0.01;entryX=0;entryY=0.5;rounded=0;" parent="1" source="K5x0BUtX9th007uARd9N-22" target="K5x0BUtX9th007uARd9N-23" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2094" y="3554" />
+              <mxPoint x="1310.5" y="2964" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="K5x0BUtX9th007uARd9N-40" value="Yes" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.43;entryX=0;entryY=0.5;rounded=0;" parent="1" source="K5x0BUtX9th007uARd9N-23" target="K5x0BUtX9th007uARd9N-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2397" y="3533" />
+              <mxPoint x="1613.5" y="2943" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="K5x0BUtX9th007uARd9N-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.66;exitY=0.01;entryX=0;entryY=0.5;rounded=0;" parent="1" source="K5x0BUtX9th007uARd9N-24" target="K5x0BUtX9th007uARd9N-25" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2641" y="3454" />
+              <mxPoint x="1857.5" y="2864" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="K5x0BUtX9th007uARd9N-42" value="Yes" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.43;entryX=0;entryY=0.49;rounded=0;" parent="1" source="K5x0BUtX9th007uARd9N-25" target="K5x0BUtX9th007uARd9N-26" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2951" y="3433" />
+              <mxPoint x="2167.5" y="2843" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="K5x0BUtX9th007uARd9N-43" value="No" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.7;entryX=0.33;entryY=0;rounded=0;" parent="1" source="K5x0BUtX9th007uARd9N-25" target="K5x0BUtX9th007uARd9N-27" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2951" y="3518" />
+              <mxPoint x="2167.5" y="2928" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="K5x0BUtX9th007uARd9N-44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.79;entryX=0.66;entryY=1;rounded=0;" parent="1" source="K5x0BUtX9th007uARd9N-27" target="K5x0BUtX9th007uARd9N-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2951" y="3613" />
-              <mxPoint x="2641" y="3613" />
+              <mxPoint x="2167.5" y="3023" />
+              <mxPoint x="1857.5" y="3023" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="K5x0BUtX9th007uARd9N-45" value="No" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.7;entryX=0.33;entryY=-0.01;rounded=0;" parent="1" source="K5x0BUtX9th007uARd9N-23" target="K5x0BUtX9th007uARd9N-28" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2397" y="3617" />
+              <mxPoint x="1613.5" y="3027" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="K5x0BUtX9th007uARd9N-46" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.78;entryX=0.71;entryY=1;rounded=0;" parent="1" source="K5x0BUtX9th007uARd9N-28" target="K5x0BUtX9th007uARd9N-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2397" y="3710" />
-              <mxPoint x="2094" y="3710" />
+              <mxPoint x="1613.5" y="3120" />
+              <mxPoint x="1310.5" y="3120" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="K5x0BUtX9th007uARd9N-47" value="No" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.7;entryX=0.35;entryY=0;rounded=0;" parent="1" source="K5x0BUtX9th007uARd9N-21" target="K5x0BUtX9th007uARd9N-29" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1792" y="3720" />
+              <mxPoint x="1008.5" y="3130" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="K5x0BUtX9th007uARd9N-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.81;entryX=0.65;entryY=0.99;rounded=0;" parent="1" source="K5x0BUtX9th007uARd9N-29" target="K5x0BUtX9th007uARd9N-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1792" y="3818" />
-              <mxPoint x="1470" y="3818" />
+              <mxPoint x="1008.5" y="3228" />
+              <mxPoint x="686.5" y="3228" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="K5x0BUtX9th007uARd9N-49" value="No" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.7;entryX=0.34;entryY=0;rounded=0;" parent="1" source="K5x0BUtX9th007uARd9N-18" target="K5x0BUtX9th007uARd9N-30" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="966" y="3819" />
+              <mxPoint x="182.5" y="3229" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="K5x0BUtX9th007uARd9N-50" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.81;entryX=0.65;entryY=0.99;rounded=0;" parent="1" source="K5x0BUtX9th007uARd9N-30" target="K5x0BUtX9th007uARd9N-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="966" y="3912" />
-              <mxPoint x="664" y="3912" />
+              <mxPoint x="182.5" y="3322" />
+              <mxPoint x="-119.5" y="3322" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="K5x0BUtX9th007uARd9N-51" value="No" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.63;entryX=0.01;entryY=0.5;rounded=0;" parent="1" source="K5x0BUtX9th007uARd9N-16" target="K5x0BUtX9th007uARd9N-31" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="418" y="3922" />
+              <mxPoint x="-365.5" y="3332" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -947,31 +947,31 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IQHX6UZ3WUo_S2QJ8UEg-18" value="Select Donor Sperm" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-94" y="1538" width="158" height="38" as="geometry" />
+          <mxGeometry x="-424" y="684" width="158" height="38" as="geometry" />
         </mxCell>
         <mxCell id="IQHX6UZ3WUo_S2QJ8UEg-19" value="Preparation of Recipient" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-111" y="1648" width="191" height="38" as="geometry" />
+          <mxGeometry x="-441" y="794" width="191" height="38" as="geometry" />
         </mxCell>
         <mxCell id="IQHX6UZ3WUo_S2QJ8UEg-20" value="Insertion of Speculum" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-102" y="1758" width="174" height="38" as="geometry" />
+          <mxGeometry x="-432" y="904" width="174" height="38" as="geometry" />
         </mxCell>
         <mxCell id="IQHX6UZ3WUo_S2QJ8UEg-21" value="Cleaning the Cervix" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-94" y="1868" width="159" height="38" as="geometry" />
+          <mxGeometry x="-424" y="1014" width="159" height="38" as="geometry" />
         </mxCell>
         <mxCell id="IQHX6UZ3WUo_S2QJ8UEg-22" value="Placement of Catheter" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-104" y="1978" width="179" height="38" as="geometry" />
+          <mxGeometry x="-434" y="1124" width="179" height="38" as="geometry" />
         </mxCell>
         <mxCell id="IQHX6UZ3WUo_S2QJ8UEg-23" value="Injection of Donor Sperm" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-114" y="2088" width="199" height="38" as="geometry" />
+          <mxGeometry x="-444" y="1234" width="199" height="38" as="geometry" />
         </mxCell>
         <mxCell id="IQHX6UZ3WUo_S2QJ8UEg-24" value="Wait" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-39" y="2198" width="49" height="38" as="geometry" />
+          <mxGeometry x="-369" y="1344" width="49" height="38" as="geometry" />
         </mxCell>
         <mxCell id="IQHX6UZ3WUo_S2QJ8UEg-25" value="Removal of Speculum and Catheter" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-150" y="2308" width="270" height="38" as="geometry" />
+          <mxGeometry x="-480" y="1454" width="270" height="38" as="geometry" />
         </mxCell>
         <mxCell id="IQHX6UZ3WUo_S2QJ8UEg-26" value="Post-procedure Care" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-96" y="2418" width="163" height="38" as="geometry" />
+          <mxGeometry x="-426" y="1564" width="163" height="38" as="geometry" />
         </mxCell>
         <mxCell id="IQHX6UZ3WUo_S2QJ8UEg-27" value="Step 1" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="IQHX6UZ3WUo_S2QJ8UEg-18" target="IQHX6UZ3WUo_S2QJ8UEg-19">
           <mxGeometry relative="1" as="geometry">
