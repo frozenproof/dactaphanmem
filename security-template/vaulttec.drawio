@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 OPR/111.0.0.0" version="24.7.6">
   <diagram name="Page-1" id="tDwcQx7iFqer2LaT-Bka">
-    <mxGraphModel dx="1333" dy="1798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3809" dy="3094" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -729,6 +729,89 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1959" y="1479" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yEzAKx--kB8cOrM_7Z8I-41" value="Start" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1318" y="1739" width="51" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="yEzAKx--kB8cOrM_7Z8I-42" value="Check if the door is locked" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1419" y="1739" width="210" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="yEzAKx--kB8cOrM_7Z8I-43" value="Have the key?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1703" y="1736" width="155" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="yEzAKx--kB8cOrM_7Z8I-44" value="Open the door" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2616" y="1752" width="119" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="yEzAKx--kB8cOrM_7Z8I-45" value="Unlock the door" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2437" y="1752" width="129" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="yEzAKx--kB8cOrM_7Z8I-46" value="Use lock picking tools" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1927" y="1779" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="yEzAKx--kB8cOrM_7Z8I-47" value="Obtain a spare key" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2211" y="1822" width="153" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="yEzAKx--kB8cOrM_7Z8I-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="yEzAKx--kB8cOrM_7Z8I-41" target="yEzAKx--kB8cOrM_7Z8I-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yEzAKx--kB8cOrM_7Z8I-49" value="Yes" style="curved=1;startArrow=none;endArrow=block;exitX=0.73;exitY=0.98;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="yEzAKx--kB8cOrM_7Z8I-42" target="yEzAKx--kB8cOrM_7Z8I-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1666" y="1814" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yEzAKx--kB8cOrM_7Z8I-50" value="No" style="curved=1;startArrow=none;endArrow=block;exitX=0.64;exitY=-0.01;entryX=0.37;entryY=0;rounded=0;" edge="1" parent="1" source="yEzAKx--kB8cOrM_7Z8I-42" target="yEzAKx--kB8cOrM_7Z8I-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1666" y="1666" />
+              <mxPoint x="2591" y="1666" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yEzAKx--kB8cOrM_7Z8I-51" value="Yes" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.19;entryX=0;entryY=0.04;rounded=0;" edge="1" parent="1" source="yEzAKx--kB8cOrM_7Z8I-43" target="yEzAKx--kB8cOrM_7Z8I-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1892" y="1744" />
+              <mxPoint x="2400" y="1744" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yEzAKx--kB8cOrM_7Z8I-52" value="No" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.81;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="yEzAKx--kB8cOrM_7Z8I-43" target="yEzAKx--kB8cOrM_7Z8I-46">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1892" y="1884" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yEzAKx--kB8cOrM_7Z8I-53" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="yEzAKx--kB8cOrM_7Z8I-45" target="yEzAKx--kB8cOrM_7Z8I-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yEzAKx--kB8cOrM_7Z8I-54" value="Yes" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.59;entryX=0.4;entryY=0.98;rounded=0;" edge="1" parent="1" source="yEzAKx--kB8cOrM_7Z8I-46" target="yEzAKx--kB8cOrM_7Z8I-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2174" y="1911" />
+              <mxPoint x="2591" y="1911" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yEzAKx--kB8cOrM_7Z8I-55" value="No" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.35;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="yEzAKx--kB8cOrM_7Z8I-46" target="yEzAKx--kB8cOrM_7Z8I-47">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2174" y="1841" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yEzAKx--kB8cOrM_7Z8I-56" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.49;entryX=0.29;entryY=0.98;rounded=0;" edge="1" parent="1" source="yEzAKx--kB8cOrM_7Z8I-47" target="yEzAKx--kB8cOrM_7Z8I-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2400" y="1841" />
             </Array>
           </mxGeometry>
         </mxCell>
