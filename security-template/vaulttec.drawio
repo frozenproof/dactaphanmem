@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 OPR/111.0.0.0" version="24.7.6">
   <diagram name="Page-1" id="tDwcQx7iFqer2LaT-Bka">
-    <mxGraphModel dx="2469" dy="1164" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2469" dy="2264" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -978,6 +978,49 @@
           <mxGeometry x="1465" y="1310" width="58" height="37" as="geometry" />
         </mxCell>
         <mxCell id="sx0xsjiPSBZpnoPCcPzn-3" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="sx0xsjiPSBZpnoPCcPzn-1" target="sx0xsjiPSBZpnoPCcPzn-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sx0xsjiPSBZpnoPCcPzn-4" value="Start" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2312" y="-253" width="49" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="sx0xsjiPSBZpnoPCcPzn-5" value="Build monster structure" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2247" y="-132" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="sx0xsjiPSBZpnoPCcPzn-6" value="Prepare monster for burning" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2229" y="120" width="215" height="215" as="geometry" />
+        </mxCell>
+        <mxCell id="sx0xsjiPSBZpnoPCcPzn-7" value="Monster starts burning" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2252" y="407" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="sx0xsjiPSBZpnoPCcPzn-8" value="Monster turns to ashes" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2251" y="649" width="172" height="172" as="geometry" />
+        </mxCell>
+        <mxCell id="sx0xsjiPSBZpnoPCcPzn-9" value="Final result: Burning monster destroyed" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2190" y="893" width="293" height="293" as="geometry" />
+        </mxCell>
+        <mxCell id="sx0xsjiPSBZpnoPCcPzn-10" value="Obtain monster&#39;s body" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="sx0xsjiPSBZpnoPCcPzn-4" target="sx0xsjiPSBZpnoPCcPzn-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sx0xsjiPSBZpnoPCcPzn-11" value="Add flammable materials" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="sx0xsjiPSBZpnoPCcPzn-5" target="sx0xsjiPSBZpnoPCcPzn-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sx0xsjiPSBZpnoPCcPzn-12" value="Ignite the fire" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="sx0xsjiPSBZpnoPCcPzn-6" target="sx0xsjiPSBZpnoPCcPzn-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sx0xsjiPSBZpnoPCcPzn-13" value="Emit intense heat and flames" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="sx0xsjiPSBZpnoPCcPzn-7" target="sx0xsjiPSBZpnoPCcPzn-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sx0xsjiPSBZpnoPCcPzn-14" value="Spread ashes all around" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="sx0xsjiPSBZpnoPCcPzn-8" target="sx0xsjiPSBZpnoPCcPzn-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
