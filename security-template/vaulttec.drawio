@@ -971,6 +971,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="sx0xsjiPSBZpnoPCcPzn-1" value="Cat" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1376" y="1310" width="39" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="sx0xsjiPSBZpnoPCcPzn-2" value="Candy" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1465" y="1310" width="58" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="sx0xsjiPSBZpnoPCcPzn-3" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="sx0xsjiPSBZpnoPCcPzn-1" target="sx0xsjiPSBZpnoPCcPzn-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
