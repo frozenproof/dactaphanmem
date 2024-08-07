@@ -896,6 +896,81 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="WT06R-pv_q3mlxSs9hfr-61" value="Start" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1981" y="66" width="51" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="WT06R-pv_q3mlxSs9hfr-62" value="Condition Met" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1780" y="154" width="155" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="WT06R-pv_q3mlxSs9hfr-63" value="Treat Infection" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1754" y="381" width="124" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="WT06R-pv_q3mlxSs9hfr-64" value="Keep Monitoring" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1954" y="381" width="134" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="WT06R-pv_q3mlxSs9hfr-65" value="Wound Closing" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1737" y="469" width="159" height="159" as="geometry" />
+        </mxCell>
+        <mxCell id="WT06R-pv_q3mlxSs9hfr-66" value="Healing Complete" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="700" width="144" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="WT06R-pv_q3mlxSs9hfr-67" value="Continue Treatment" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1904" y="700" width="161" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="WT06R-pv_q3mlxSs9hfr-68" value="" style="curved=1;startArrow=none;endArrow=block;exitX=-0.01;exitY=0.69;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="WT06R-pv_q3mlxSs9hfr-61" target="WT06R-pv_q3mlxSs9hfr-62">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1857" y="129" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WT06R-pv_q3mlxSs9hfr-69" value="Yes" style="curved=1;startArrow=none;endArrow=block;exitX=0.32;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="WT06R-pv_q3mlxSs9hfr-62" target="WT06R-pv_q3mlxSs9hfr-63">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1816" y="345" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WT06R-pv_q3mlxSs9hfr-70" value="No" style="curved=1;startArrow=none;endArrow=block;exitX=0.74;exitY=1;entryX=0.22;entryY=0;rounded=0;" edge="1" parent="1" source="WT06R-pv_q3mlxSs9hfr-62" target="WT06R-pv_q3mlxSs9hfr-64">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1913" y="345" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WT06R-pv_q3mlxSs9hfr-71" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="WT06R-pv_q3mlxSs9hfr-63" target="WT06R-pv_q3mlxSs9hfr-65">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WT06R-pv_q3mlxSs9hfr-72" value="Yes" style="curved=1;startArrow=none;endArrow=block;exitX=0.35;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="WT06R-pv_q3mlxSs9hfr-65" target="WT06R-pv_q3mlxSs9hfr-66">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1782" y="664" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WT06R-pv_q3mlxSs9hfr-73" value="No" style="curved=1;startArrow=none;endArrow=block;exitX=0.88;exitY=1;entryX=0.33;entryY=-0.01;rounded=0;" edge="1" parent="1" source="WT06R-pv_q3mlxSs9hfr-65" target="WT06R-pv_q3mlxSs9hfr-67">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1904" y="664" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WT06R-pv_q3mlxSs9hfr-74" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.53;exitY=-0.01;entryX=1;entryY=0.81;rounded=0;" edge="1" parent="1" source="WT06R-pv_q3mlxSs9hfr-67" target="WT06R-pv_q3mlxSs9hfr-65">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1999" y="664" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WT06R-pv_q3mlxSs9hfr-75" value="Regular Check" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0;entryX=0.62;entryY=0.99;rounded=0;" edge="1" parent="1" source="WT06R-pv_q3mlxSs9hfr-64" target="WT06R-pv_q3mlxSs9hfr-61">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2021" y="129" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
