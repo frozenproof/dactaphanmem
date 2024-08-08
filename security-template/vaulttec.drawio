@@ -1026,31 +1026,31 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="e_X0_XKs6M9DSBP7vKeu-1" value="Start" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-191" y="-60" width="49" height="37" as="geometry" />
+          <mxGeometry x="-201" y="41" width="49" height="37" as="geometry" />
         </mxCell>
         <mxCell id="e_X0_XKs6M9DSBP7vKeu-2" value="Hashing on server side" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-254" y="27" width="175" height="37" as="geometry" />
+          <mxGeometry x="-264" y="128" width="175" height="37" as="geometry" />
         </mxCell>
         <mxCell id="e_X0_XKs6M9DSBP7vKeu-3" value="Authorization" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="114" width="148" height="148" as="geometry" />
+          <mxGeometry x="-250" y="215" width="148" height="148" as="geometry" />
         </mxCell>
         <mxCell id="e_X0_XKs6M9DSBP7vKeu-4" value="Access granted" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-310" y="334" width="120" height="37" as="geometry" />
+          <mxGeometry x="-320" y="435" width="120" height="37" as="geometry" />
         </mxCell>
         <mxCell id="e_X0_XKs6M9DSBP7vKeu-5" value="Access denied" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-140" y="334" width="115" height="37" as="geometry" />
+          <mxGeometry x="-150" y="435" width="115" height="37" as="geometry" />
         </mxCell>
         <mxCell id="e_X0_XKs6M9DSBP7vKeu-6" value="Hashing on client side" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-251" y="421" width="170" height="37" as="geometry" />
+          <mxGeometry x="-261" y="522" width="170" height="37" as="geometry" />
         </mxCell>
         <mxCell id="e_X0_XKs6M9DSBP7vKeu-7" value="Authorization" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="508" width="148" height="148" as="geometry" />
+          <mxGeometry x="-250" y="609" width="148" height="148" as="geometry" />
         </mxCell>
         <mxCell id="e_X0_XKs6M9DSBP7vKeu-8" value="Access granted" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-310" y="728" width="120" height="37" as="geometry" />
+          <mxGeometry x="-320" y="829" width="120" height="37" as="geometry" />
         </mxCell>
         <mxCell id="e_X0_XKs6M9DSBP7vKeu-9" value="Access denied" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-140" y="728" width="115" height="37" as="geometry" />
+          <mxGeometry x="-150" y="829" width="115" height="37" as="geometry" />
         </mxCell>
         <mxCell id="e_X0_XKs6M9DSBP7vKeu-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="e_X0_XKs6M9DSBP7vKeu-1" target="e_X0_XKs6M9DSBP7vKeu-2">
           <mxGeometry relative="1" as="geometry">
@@ -1065,28 +1065,28 @@
         <mxCell id="e_X0_XKs6M9DSBP7vKeu-12" value="Successful" style="curved=1;startArrow=none;endArrow=block;exitX=0.12;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="e_X0_XKs6M9DSBP7vKeu-3" target="e_X0_XKs6M9DSBP7vKeu-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-250" y="298" />
+              <mxPoint x="-260" y="399" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="e_X0_XKs6M9DSBP7vKeu-13" value="Failed" style="curved=1;startArrow=none;endArrow=block;exitX=0.88;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="e_X0_XKs6M9DSBP7vKeu-3" target="e_X0_XKs6M9DSBP7vKeu-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-82" y="298" />
+              <mxPoint x="-92" y="399" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="e_X0_XKs6M9DSBP7vKeu-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.29;entryY=0;rounded=0;" edge="1" parent="1" source="e_X0_XKs6M9DSBP7vKeu-4" target="e_X0_XKs6M9DSBP7vKeu-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-250" y="396" />
+              <mxPoint x="-260" y="497" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="e_X0_XKs6M9DSBP7vKeu-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.71;entryY=0;rounded=0;" edge="1" parent="1" source="e_X0_XKs6M9DSBP7vKeu-5" target="e_X0_XKs6M9DSBP7vKeu-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-82" y="396" />
+              <mxPoint x="-92" y="497" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1098,14 +1098,14 @@
         <mxCell id="e_X0_XKs6M9DSBP7vKeu-17" value="Successful" style="curved=1;startArrow=none;endArrow=block;exitX=0.12;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="e_X0_XKs6M9DSBP7vKeu-7" target="e_X0_XKs6M9DSBP7vKeu-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-250" y="692" />
+              <mxPoint x="-260" y="793" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="e_X0_XKs6M9DSBP7vKeu-18" value="Failed" style="curved=1;startArrow=none;endArrow=block;exitX=0.88;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="e_X0_XKs6M9DSBP7vKeu-7" target="e_X0_XKs6M9DSBP7vKeu-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-82" y="692" />
+              <mxPoint x="-92" y="793" />
             </Array>
           </mxGeometry>
         </mxCell>
