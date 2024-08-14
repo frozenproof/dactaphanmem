@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 OPR/112.0.0.0" version="24.7.7">
   <diagram name="Page-1" id="dhmugoJ66A4QXBkLT4YO">
-    <mxGraphModel dx="1695" dy="1973" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2884" dy="2148" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,6 +37,48 @@
         <mxCell id="10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" parent="1" source="5" target="6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rs1pViAMojHoj6-sDMxf-22" value="Passively collect data of normal operations to comprehend the target" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-732" y="130" width="511" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="rs1pViAMojHoj6-sDMxf-23" value="Analyze data received directly from the target" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-82" y="130" width="350" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="rs1pViAMojHoj6-sDMxf-24" value="Insights" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="372" y="130" width="67" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="rs1pViAMojHoj6-sDMxf-25" value="Final assessment" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1299" y="100" width="130" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="rs1pViAMojHoj6-sDMxf-26" value="Testing Phase" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-790" y="217" width="626" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="rs1pViAMojHoj6-sDMxf-27" value="Actively test operations by agitating operations beyond the normal baseline" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="rs1pViAMojHoj6-sDMxf-26">
+          <mxGeometry x="43" y="33" width="556" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="rs1pViAMojHoj6-sDMxf-28" value="Feedback" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="rs1pViAMojHoj6-sDMxf-26">
+          <mxGeometry x="280" y="120" width="83" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="rs1pViAMojHoj6-sDMxf-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=-1.35;entryX=0.49;entryY=-2.35;rounded=0;" edge="1" parent="rs1pViAMojHoj6-sDMxf-26" source="rs1pViAMojHoj6-sDMxf-27" target="rs1pViAMojHoj6-sDMxf-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rs1pViAMojHoj6-sDMxf-30" value="Data" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="rs1pViAMojHoj6-sDMxf-22" target="rs1pViAMojHoj6-sDMxf-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rs1pViAMojHoj6-sDMxf-31" value="Analysis" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="rs1pViAMojHoj6-sDMxf-23" target="rs1pViAMojHoj6-sDMxf-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rs1pViAMojHoj6-sDMxf-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="rs1pViAMojHoj6-sDMxf-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="489" y="148.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
