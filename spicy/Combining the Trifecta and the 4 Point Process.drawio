@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 OPR/112.0.0.0" version="24.7.7">
   <diagram name="Page-1" id="dhmugoJ66A4QXBkLT4YO">
-    <mxGraphModel dx="3756" dy="2597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2046" dy="1716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -204,6 +204,44 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rs1pViAMojHoj6-sDMxf-83" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="rs1pViAMojHoj6-sDMxf-75" target="rs1pViAMojHoj6-sDMxf-76">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rs1pViAMojHoj6-sDMxf-98" value="Processes" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2416" y="141" width="82" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="rs1pViAMojHoj6-sDMxf-99" value="The optimal state of operations" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2125" y="141" width="241" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="rs1pViAMojHoj6-sDMxf-100" value="Gap Analysis" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2599" y="90" width="138" height="138" as="geometry" />
+        </mxCell>
+        <mxCell id="rs1pViAMojHoj6-sDMxf-101" value="Implement enhancements" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2837" y="141" width="196" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="rs1pViAMojHoj6-sDMxf-102" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="rs1pViAMojHoj6-sDMxf-99" target="rs1pViAMojHoj6-sDMxf-98">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rs1pViAMojHoj6-sDMxf-103" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="rs1pViAMojHoj6-sDMxf-98" target="rs1pViAMojHoj6-sDMxf-100">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rs1pViAMojHoj6-sDMxf-104" value="Determine enhancements needed" style="curved=1;startArrow=none;endArrow=block;exitX=0.15;exitY=1;entryX=0.84;entryY=1;rounded=0;" edge="1" parent="1" source="rs1pViAMojHoj6-sDMxf-100" target="rs1pViAMojHoj6-sDMxf-100">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2599" y="259" />
+              <mxPoint x="2599" y="266" />
+              <mxPoint x="2668" y="274" />
+              <mxPoint x="2737" y="266" />
+              <mxPoint x="2737" y="259" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rs1pViAMojHoj6-sDMxf-105" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="rs1pViAMojHoj6-sDMxf-100" target="rs1pViAMojHoj6-sDMxf-101">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
