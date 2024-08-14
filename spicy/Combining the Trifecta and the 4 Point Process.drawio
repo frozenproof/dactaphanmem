@@ -1,23 +1,23 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 OPR/112.0.0.0" version="24.7.7">
   <diagram name="Page-1" id="dhmugoJ66A4QXBkLT4YO">
-    <mxGraphModel dx="2884" dy="2148" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3393" dy="2410" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2" value="Identify the Problem" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry y="-310" width="162" height="37" as="geometry" />
+          <mxGeometry x="-10" y="-610" width="162" height="37" as="geometry" />
         </mxCell>
         <mxCell id="3" value="Analyze the Problem" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1" y="-223" width="161" height="37" as="geometry" />
+          <mxGeometry x="-9" y="-523" width="161" height="37" as="geometry" />
         </mxCell>
         <mxCell id="4" value="Identify Solutions" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="12" y="-136" width="138" height="37" as="geometry" />
+          <mxGeometry x="2" y="-436" width="138" height="37" as="geometry" />
         </mxCell>
         <mxCell id="5" value="Implement Solutions" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="2" y="-49" width="158" height="37" as="geometry" />
+          <mxGeometry x="-8" y="-349" width="158" height="37" as="geometry" />
         </mxCell>
         <mxCell id="6" value="Evaluate Results" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="17" y="38" width="128" height="37" as="geometry" />
+          <mxGeometry x="7" y="-262" width="128" height="37" as="geometry" />
         </mxCell>
         <mxCell id="7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" parent="1" source="2" target="3" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -79,6 +79,69 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="489" y="148.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rs1pViAMojHoj6-sDMxf-54" value="Metrics Derivation" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1887" y="100" width="169" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="rs1pViAMojHoj6-sDMxf-55" value="Derive Metrics" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1912" y="135" width="119" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="rs1pViAMojHoj6-sDMxf-56" value="Error Reconciliation" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1547" y="100" width="290" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="rs1pViAMojHoj6-sDMxf-57" value="Determine and Reconcile Errors" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1572" y="135" width="240" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="rs1pViAMojHoj6-sDMxf-58" value="Operational Security Processes" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1134" y="100" width="363" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="rs1pViAMojHoj6-sDMxf-59" value="Determine Operational Security Processes" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1159" y="135" width="313" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="rs1pViAMojHoj6-sDMxf-60" value="Step4" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="495" y="227" width="242" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="rs1pViAMojHoj6-sDMxf-61" value="Indirect Data Test Results" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="520" y="262" width="192" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="rs1pViAMojHoj6-sDMxf-62" value="Step3" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="495" y="90" width="589" height="117" as="geometry" />
+        </mxCell>
+        <mxCell id="rs1pViAMojHoj6-sDMxf-63" value="Correlate and Reconcile Intelligence" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="787" y="135" width="272" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="rs1pViAMojHoj6-sDMxf-64" value="Direct Data Test Results" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="526" y="125" width="181" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="rs1pViAMojHoj6-sDMxf-65" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.27;rounded=0;" edge="1" parent="1" source="rs1pViAMojHoj6-sDMxf-64" target="rs1pViAMojHoj6-sDMxf-63">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="762" y="144" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rs1pViAMojHoj6-sDMxf-66" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.88;rounded=0;" edge="1" parent="1" source="rs1pViAMojHoj6-sDMxf-61" target="rs1pViAMojHoj6-sDMxf-63">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="737" y="281" />
+              <mxPoint x="762" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rs1pViAMojHoj6-sDMxf-67" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="rs1pViAMojHoj6-sDMxf-63" target="rs1pViAMojHoj6-sDMxf-59">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rs1pViAMojHoj6-sDMxf-68" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="rs1pViAMojHoj6-sDMxf-59" target="rs1pViAMojHoj6-sDMxf-57">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rs1pViAMojHoj6-sDMxf-69" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="rs1pViAMojHoj6-sDMxf-57" target="rs1pViAMojHoj6-sDMxf-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
