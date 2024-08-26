@@ -1,45 +1,131 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 OPR/112.0.0.0" version="24.7.7">
   <diagram name="Page-1" id="MOcFmovRXAjLy9BOT2LX">
-    <mxGraphModel>
+    <mxGraphModel dx="2046" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" value="Request" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="111" width="70" height="37" as="geometry" />
+        <mxCell id="2" value="Request" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="-389" y="30" width="70" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="3" value="Access Control API" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="74" y="109" width="144" height="37" as="geometry" />
+        <mxCell id="3" value="Access Control API" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="-426" y="139" width="144" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="4" value="Authorized" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="81" y="218" width="130" height="130" as="geometry" />
+        <mxCell id="4" value="Authorized" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-419" y="248" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="5" value="Process Request" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry y="420" width="127" height="37" as="geometry" />
+        <mxCell id="5" value="Process Request" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="-500" y="450" width="127" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="6" value="Return Error" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="177" y="420" width="101" height="37" as="geometry" />
+        <mxCell id="6" value="Return Error" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="-323" y="450" width="101" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="7" value="Validate Token" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="2" target="3">
+        <mxCell id="7" value="Validate Token" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=1;entryX=0.5;entryY=0;" parent="1" source="2" target="3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8" value="Check Permissions" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="3" target="4">
+        <mxCell id="8" value="Check Permissions" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" parent="1" source="3" target="4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9" value="Allow" style="curved=1;startArrow=none;endArrow=block;exitX=0.09;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="4" target="5">
+        <mxCell id="9" value="Allow" style="curved=1;startArrow=none;endArrow=block;exitX=0.09;exitY=1;entryX=0.5;entryY=0;" parent="1" source="4" target="5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="64" y="384" />
+              <mxPoint x="-436" y="414" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="10" value="Deny" style="curved=1;startArrow=none;endArrow=block;exitX=0.9;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="4" target="6">
+        <mxCell id="10" value="Deny" style="curved=1;startArrow=none;endArrow=block;exitX=0.9;exitY=1;entryX=0.5;entryY=0;" parent="1" source="4" target="6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="228" y="384" />
+              <mxPoint x="-272" y="414" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TSMCGkvwtsyavsWyP97d-10" value="Client" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="514" width="57" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="TSMCGkvwtsyavsWyP97d-11" value="API Gateway" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="28" y="341" width="105" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="TSMCGkvwtsyavsWyP97d-12" value="Authentication Service" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="334" y="252" width="215" height="215" as="geometry" />
+        </mxCell>
+        <mxCell id="TSMCGkvwtsyavsWyP97d-13" value="JWT Token" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="723" y="210" width="93" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="TSMCGkvwtsyavsWyP97d-14" value="API Key" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="735" y="297" width="68" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="TSMCGkvwtsyavsWyP97d-15" value="Permit Request" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="708" y="384" width="122" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="TSMCGkvwtsyavsWyP97d-16" value="Deny Request" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="714" y="499" width="110" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="TSMCGkvwtsyavsWyP97d-17" value="API Service" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="983" y="482" width="96" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="TSMCGkvwtsyavsWyP97d-18" value="Requests" style="curved=1;startArrow=none;endArrow=block;exitX=0.66;exitY=0.01;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="TSMCGkvwtsyavsWyP97d-10" target="TSMCGkvwtsyavsWyP97d-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-27" y="359" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TSMCGkvwtsyavsWyP97d-19" value="Forwards Request" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="TSMCGkvwtsyavsWyP97d-11" target="TSMCGkvwtsyavsWyP97d-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TSMCGkvwtsyavsWyP97d-20" value="Validates Token" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.15;entryX=-0.01;entryY=0.5;rounded=0;" edge="1" parent="1" source="TSMCGkvwtsyavsWyP97d-12" target="TSMCGkvwtsyavsWyP97d-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="629" y="229" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TSMCGkvwtsyavsWyP97d-21" value="Validates Token" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.38;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="TSMCGkvwtsyavsWyP97d-12" target="TSMCGkvwtsyavsWyP97d-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="629" y="316" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TSMCGkvwtsyavsWyP97d-22" value="Correct" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.61;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="TSMCGkvwtsyavsWyP97d-12" target="TSMCGkvwtsyavsWyP97d-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="629" y="403" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TSMCGkvwtsyavsWyP97d-23" value="Incorrect" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.79;entryX=0.03;entryY=-0.01;rounded=0;" edge="1" parent="1" source="TSMCGkvwtsyavsWyP97d-12" target="TSMCGkvwtsyavsWyP97d-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="629" y="467" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TSMCGkvwtsyavsWyP97d-24" value="Passes Request" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.26;entryY=0;rounded=0;" edge="1" parent="1" source="TSMCGkvwtsyavsWyP97d-15" target="TSMCGkvwtsyavsWyP97d-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="907" y="403" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TSMCGkvwtsyavsWyP97d-25" value="Returns Unauthorized" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.66;entryX=1;entryY=0.51;rounded=0;" edge="1" parent="1" source="TSMCGkvwtsyavsWyP97d-16" target="TSMCGkvwtsyavsWyP97d-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="629" y="533" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TSMCGkvwtsyavsWyP97d-26" value="Receives Data" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.89;entryX=0.18;entryY=1;rounded=0;" edge="1" parent="1" source="TSMCGkvwtsyavsWyP97d-10" target="TSMCGkvwtsyavsWyP97d-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-27" y="575" />
+              <mxPoint x="907" y="575" />
             </Array>
           </mxGeometry>
         </mxCell>
