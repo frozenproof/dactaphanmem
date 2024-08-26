@@ -724,22 +724,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TSMCGkvwtsyavsWyP97d-155" value="Client" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
-          <mxGeometry x="910" y="1830" width="150" height="1000" as="geometry" />
+          <mxGeometry x="230" y="2059.5" width="150" height="1000" as="geometry" />
         </mxCell>
         <mxCell id="TSMCGkvwtsyavsWyP97d-156" value="Authorization_Server" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
-          <mxGeometry x="1272" y="1830" width="166" height="1000" as="geometry" />
+          <mxGeometry x="592" y="2059.5" width="166" height="1000" as="geometry" />
         </mxCell>
         <mxCell id="TSMCGkvwtsyavsWyP97d-157" value="Attacker" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
-          <mxGeometry x="1639" y="1830" width="150" height="1000" as="geometry" />
+          <mxGeometry x="959" y="2059.5" width="150" height="1000" as="geometry" />
         </mxCell>
         <mxCell id="TSMCGkvwtsyavsWyP97d-158" value="loop" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=40" vertex="1" parent="1">
-          <mxGeometry x="974" y="2165" width="712" height="254" as="geometry" />
+          <mxGeometry x="294" y="2394.5" width="712" height="254" as="geometry" />
         </mxCell>
         <mxCell id="TSMCGkvwtsyavsWyP97d-159" value="[Secure Redirect]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="TSMCGkvwtsyavsWyP97d-158">
           <mxGeometry x="40" width="672" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TSMCGkvwtsyavsWyP97d-160" value="loop" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=40" vertex="1" parent="1">
-          <mxGeometry x="974" y="2429" width="751" height="306" as="geometry" />
+          <mxGeometry x="294" y="2658.5" width="751" height="306" as="geometry" />
         </mxCell>
         <mxCell id="TSMCGkvwtsyavsWyP97d-161" value="[Attack with Open Redirector]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="TSMCGkvwtsyavsWyP97d-160">
           <mxGeometry x="40" width="711" height="20" as="geometry" />
@@ -747,133 +747,133 @@
         <mxCell id="TSMCGkvwtsyavsWyP97d-162" value="Request Authorization" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="TSMCGkvwtsyavsWyP97d-155" target="TSMCGkvwtsyavsWyP97d-156">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1179" y="1937" />
+              <mxPoint x="499" y="2166.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TSMCGkvwtsyavsWyP97d-163" value="Redirect to Login Page" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="TSMCGkvwtsyavsWyP97d-156" target="TSMCGkvwtsyavsWyP97d-155">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1182" y="1989" />
+              <mxPoint x="502" y="2218.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TSMCGkvwtsyavsWyP97d-164" value="Submit Login Credentials" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="TSMCGkvwtsyavsWyP97d-155" target="TSMCGkvwtsyavsWyP97d-156">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1179" y="2041" />
+              <mxPoint x="499" y="2270.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TSMCGkvwtsyavsWyP97d-165" value="Redirect to Authorization Page" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="TSMCGkvwtsyavsWyP97d-156" target="TSMCGkvwtsyavsWyP97d-155">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1182" y="2093" />
+              <mxPoint x="502" y="2322.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TSMCGkvwtsyavsWyP97d-166" value="Approve Authorization Request" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="TSMCGkvwtsyavsWyP97d-155" target="TSMCGkvwtsyavsWyP97d-156">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1179" y="2145" />
+              <mxPoint x="499" y="2374.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TSMCGkvwtsyavsWyP97d-167" value="Redirect to App with Authorization Token" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="TSMCGkvwtsyavsWyP97d-156" target="TSMCGkvwtsyavsWyP97d-155">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1182" y="2243" />
+              <mxPoint x="502" y="2472.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TSMCGkvwtsyavsWyP97d-168" value="Request to Access Resource" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="TSMCGkvwtsyavsWyP97d-155" target="TSMCGkvwtsyavsWyP97d-156">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1179" y="2295" />
+              <mxPoint x="499" y="2524.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TSMCGkvwtsyavsWyP97d-169" value="Grant Access" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="TSMCGkvwtsyavsWyP97d-156" target="TSMCGkvwtsyavsWyP97d-155">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1182" y="2347" />
+              <mxPoint x="502" y="2576.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TSMCGkvwtsyavsWyP97d-170" value="Request Access with Arbitrary Redirect URL" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="TSMCGkvwtsyavsWyP97d-155" target="TSMCGkvwtsyavsWyP97d-156">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1179" y="2507" />
+              <mxPoint x="499" y="2736.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TSMCGkvwtsyavsWyP97d-171" value="Redirect to Arbitrary URI" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="TSMCGkvwtsyavsWyP97d-156" target="TSMCGkvwtsyavsWyP97d-155">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1182" y="2559" />
+              <mxPoint x="502" y="2788.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TSMCGkvwtsyavsWyP97d-172" value="Browser Redirected to Malicious Site" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="TSMCGkvwtsyavsWyP97d-155" target="TSMCGkvwtsyavsWyP97d-157">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1358" y="2611" />
+              <mxPoint x="678" y="2840.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TSMCGkvwtsyavsWyP97d-173" value="Crafted Request to Steal Authorization" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="TSMCGkvwtsyavsWyP97d-157" target="TSMCGkvwtsyavsWyP97d-156">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1546" y="2663" />
+              <mxPoint x="866" y="2892.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TSMCGkvwtsyavsWyP97d-174" value="URLs not vulnerable to open redirectors" style="fillColor=#ffff88;strokeColor=#9E916F;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="2367" width="296" height="52" as="geometry" />
+          <mxGeometry x="700" y="2596.5" width="296" height="52" as="geometry" />
         </mxCell>
         <mxCell id="TSMCGkvwtsyavsWyP97d-175" value="Vulnerable scenario with open redirectors" style="fillColor=#ffff88;strokeColor=#9E916F;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="2683" width="309" height="52" as="geometry" />
+          <mxGeometry x="700" y="2912.5" width="309" height="52" as="geometry" />
         </mxCell>
         <mxCell id="TSMCGkvwtsyavsWyP97d-188" value="Clients" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="594" y="1840" width="63" height="63" as="geometry" />
+          <mxGeometry x="-86" y="2069.5" width="63" height="63" as="geometry" />
         </mxCell>
         <mxCell id="TSMCGkvwtsyavsWyP97d-189" value="Authorization Server" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="544" y="2192" width="163" height="37" as="geometry" />
+          <mxGeometry x="-136" y="2421.5" width="163" height="37" as="geometry" />
         </mxCell>
         <mxCell id="TSMCGkvwtsyavsWyP97d-190" value="PKCE" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="520" y="2040" width="52" height="37" as="geometry" />
+          <mxGeometry x="-160" y="2269.5" width="52" height="37" as="geometry" />
         </mxCell>
         <mxCell id="TSMCGkvwtsyavsWyP97d-191" value="CRSF protection" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="622" y="1975" width="167" height="167" as="geometry" />
+          <mxGeometry x="-58" y="2204.5" width="167" height="167" as="geometry" />
         </mxCell>
         <mxCell id="TSMCGkvwtsyavsWyP97d-192" value="nonce parameter" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="558" y="2279" width="136" height="37" as="geometry" />
+          <mxGeometry x="-122" y="2508.5" width="136" height="37" as="geometry" />
         </mxCell>
         <mxCell id="TSMCGkvwtsyavsWyP97d-193" value="ensures" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.92;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="TSMCGkvwtsyavsWyP97d-188" target="TSMCGkvwtsyavsWyP97d-190">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="546" y="1939" />
+              <mxPoint x="-134" y="2168.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TSMCGkvwtsyavsWyP97d-194" value="relies on" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.92;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="TSMCGkvwtsyavsWyP97d-188" target="TSMCGkvwtsyavsWyP97d-191">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="706" y="1939" />
+              <mxPoint x="26" y="2168.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TSMCGkvwtsyavsWyP97d-195" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.29;entryY=0;rounded=0;" edge="1" parent="1" source="TSMCGkvwtsyavsWyP97d-190" target="TSMCGkvwtsyavsWyP97d-189">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="546" y="2167" />
+              <mxPoint x="-134" y="2396.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TSMCGkvwtsyavsWyP97d-196" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.71;entryY=0;rounded=0;" edge="1" parent="1" source="TSMCGkvwtsyavsWyP97d-191" target="TSMCGkvwtsyavsWyP97d-189">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="706" y="2167" />
+              <mxPoint x="26" y="2396.5" />
             </Array>
           </mxGeometry>
         </mxCell>
