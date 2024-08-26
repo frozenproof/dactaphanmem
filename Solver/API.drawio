@@ -947,6 +947,113 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="TSMCGkvwtsyavsWyP97d-214" value="Start" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1779" y="2480" width="49" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="TSMCGkvwtsyavsWyP97d-215" value="Other Countermeasure Options Exist?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1878" y="2340" width="317" height="317" as="geometry" />
+        </mxCell>
+        <mxCell id="TSMCGkvwtsyavsWyP97d-216" value="Handle Other Options" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2323" y="2376" width="168" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="TSMCGkvwtsyavsWyP97d-217" value="Distinct Redirect URIs Available?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2267" y="2463" width="279" height="279" as="geometry" />
+        </mxCell>
+        <mxCell id="TSMCGkvwtsyavsWyP97d-218" value="Stop and Inform Client" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2618" y="2376" width="175" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="TSMCGkvwtsyavsWyP97d-219" value="Verify Redirect URIs" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2628" y="2541" width="156" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="TSMCGkvwtsyavsWyP97d-220" value="Inform Client" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2652" y="2628" width="108" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="TSMCGkvwtsyavsWyP97d-221" value="Generate Random Code" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2843" y="2497" width="184" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="TSMCGkvwtsyavsWyP97d-222" value="Fetch the Code" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2872" y="2584" width="126" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="TSMCGkvwtsyavsWyP97d-223" value="Code Valid?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="3077" y="2536" width="134" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="TSMCGkvwtsyavsWyP97d-224" value="Redirect Success" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3283" y="2541" width="133" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="TSMCGkvwtsyavsWyP97d-225" value="Redirect Failure" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3286" y="2628" width="128" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="TSMCGkvwtsyavsWyP97d-226" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="TSMCGkvwtsyavsWyP97d-214" target="TSMCGkvwtsyavsWyP97d-215">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TSMCGkvwtsyavsWyP97d-227" value="Yes" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.23;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="TSMCGkvwtsyavsWyP97d-215" target="TSMCGkvwtsyavsWyP97d-216">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2231" y="2395" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TSMCGkvwtsyavsWyP97d-228" value="No" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.77;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="TSMCGkvwtsyavsWyP97d-215" target="TSMCGkvwtsyavsWyP97d-217">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2231" y="2603" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TSMCGkvwtsyavsWyP97d-229" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="TSMCGkvwtsyavsWyP97d-216" target="TSMCGkvwtsyavsWyP97d-218">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TSMCGkvwtsyavsWyP97d-230" value="Yes" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.38;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="TSMCGkvwtsyavsWyP97d-217" target="TSMCGkvwtsyavsWyP97d-219">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2582" y="2559" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TSMCGkvwtsyavsWyP97d-231" value="No" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.62;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="TSMCGkvwtsyavsWyP97d-217" target="TSMCGkvwtsyavsWyP97d-220">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2582" y="2646" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TSMCGkvwtsyavsWyP97d-232" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.8;exitY=-0.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="TSMCGkvwtsyavsWyP97d-219" target="TSMCGkvwtsyavsWyP97d-221">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2818" y="2516" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TSMCGkvwtsyavsWyP97d-233" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.8;exitY=0.99;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="TSMCGkvwtsyavsWyP97d-219" target="TSMCGkvwtsyavsWyP97d-222">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2818" y="2603" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TSMCGkvwtsyavsWyP97d-234" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="TSMCGkvwtsyavsWyP97d-222" target="TSMCGkvwtsyavsWyP97d-223">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TSMCGkvwtsyavsWyP97d-235" value="Yes" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.29;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="TSMCGkvwtsyavsWyP97d-223" target="TSMCGkvwtsyavsWyP97d-224">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3247" y="2559" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TSMCGkvwtsyavsWyP97d-236" value="No" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.71;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="TSMCGkvwtsyavsWyP97d-223" target="TSMCGkvwtsyavsWyP97d-225">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3247" y="2646" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
