@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 OPR/112.0.0.0" version="24.7.7">
   <diagram name="Page-1" id="MOcFmovRXAjLy9BOT2LX">
-    <mxGraphModel dx="2046" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3393" dy="1310" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -130,7 +130,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TSMCGkvwtsyavsWyP97d-27" value="Optimizations" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="45" y="510" width="397" height="88" as="geometry" />
+          <mxGeometry x="-65" y="510" width="397" height="88" as="geometry" />
         </mxCell>
         <mxCell id="TSMCGkvwtsyavsWyP97d-28" value="Latency Reduction" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="TSMCGkvwtsyavsWyP97d-27">
           <mxGeometry x="43" y="33" width="145" height="37" as="geometry" />
@@ -139,161 +139,161 @@
           <mxGeometry x="238" y="33" width="132" height="37" as="geometry" />
         </mxCell>
         <mxCell id="TSMCGkvwtsyavsWyP97d-30" value="Centralized Authentication Service" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="20" y="633" width="447" height="414" as="geometry" />
+          <mxGeometry x="-90" y="633" width="447" height="414" as="geometry" />
         </mxCell>
         <mxCell id="TSMCGkvwtsyavsWyP97d-31" value="User Authentication Service" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="137" y="828" width="213" height="37" as="geometry" />
+          <mxGeometry x="27" y="828" width="213" height="37" as="geometry" />
         </mxCell>
         <mxCell id="TSMCGkvwtsyavsWyP97d-32" value="Service Architecture" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="517" y="583" width="702" height="511" as="geometry" />
+          <mxGeometry x="407" y="583" width="702" height="511" as="geometry" />
         </mxCell>
         <mxCell id="TSMCGkvwtsyavsWyP97d-33" value="Endpoint 1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="542" y="603" width="652" height="144" as="geometry" />
+          <mxGeometry x="432" y="603" width="652" height="144" as="geometry" />
         </mxCell>
         <mxCell id="TSMCGkvwtsyavsWyP97d-34" value="Endpoint 2" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="542" y="767" width="652" height="144" as="geometry" />
+          <mxGeometry x="432" y="767" width="652" height="144" as="geometry" />
         </mxCell>
         <mxCell id="TSMCGkvwtsyavsWyP97d-35" value="Endpoint 3" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="542" y="930" width="652" height="144" as="geometry" />
+          <mxGeometry x="432" y="930" width="652" height="144" as="geometry" />
         </mxCell>
         <mxCell id="TSMCGkvwtsyavsWyP97d-36" value="REST Endpoint 3" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1038" y="999" width="131" height="37" as="geometry" />
+          <mxGeometry x="928" y="999" width="131" height="37" as="geometry" />
         </mxCell>
         <mxCell id="TSMCGkvwtsyavsWyP97d-37" value="Authentication Logic 3" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="567" y="999" width="175" height="37" as="geometry" />
+          <mxGeometry x="457" y="999" width="175" height="37" as="geometry" />
         </mxCell>
         <mxCell id="TSMCGkvwtsyavsWyP97d-38" value="Access Control Decision 3" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="792" y="965" width="196" height="37" as="geometry" />
+          <mxGeometry x="682" y="965" width="196" height="37" as="geometry" />
         </mxCell>
         <mxCell id="TSMCGkvwtsyavsWyP97d-39" value="REST Endpoint 2" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1038" y="828" width="131" height="37" as="geometry" />
+          <mxGeometry x="928" y="828" width="131" height="37" as="geometry" />
         </mxCell>
         <mxCell id="TSMCGkvwtsyavsWyP97d-40" value="Authentication Logic 2" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="567" y="828" width="175" height="37" as="geometry" />
+          <mxGeometry x="457" y="828" width="175" height="37" as="geometry" />
         </mxCell>
         <mxCell id="TSMCGkvwtsyavsWyP97d-41" value="Access Control Decision 2" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="792" y="802" width="196" height="37" as="geometry" />
+          <mxGeometry x="682" y="802" width="196" height="37" as="geometry" />
         </mxCell>
         <mxCell id="TSMCGkvwtsyavsWyP97d-42" value="REST Endpoint 1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1038" y="665" width="131" height="37" as="geometry" />
+          <mxGeometry x="928" y="665" width="131" height="37" as="geometry" />
         </mxCell>
         <mxCell id="TSMCGkvwtsyavsWyP97d-43" value="Authentication Logic 1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="567" y="665" width="175" height="37" as="geometry" />
+          <mxGeometry x="457" y="665" width="175" height="37" as="geometry" />
         </mxCell>
         <mxCell id="TSMCGkvwtsyavsWyP97d-44" value="Access Control Decision 1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="792" y="638" width="196" height="37" as="geometry" />
+          <mxGeometry x="682" y="638" width="196" height="37" as="geometry" />
         </mxCell>
         <mxCell id="TSMCGkvwtsyavsWyP97d-45" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.02;exitY=0.99;entryX=0.94;entryY=0.99;rounded=0;" edge="1" parent="1" source="TSMCGkvwtsyavsWyP97d-42" target="TSMCGkvwtsyavsWyP97d-43">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1013" y="710" />
-              <mxPoint x="767" y="710" />
+              <mxPoint x="903" y="710" />
+              <mxPoint x="657" y="710" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TSMCGkvwtsyavsWyP97d-46" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.94;exitY=-0.01;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="TSMCGkvwtsyavsWyP97d-43" target="TSMCGkvwtsyavsWyP97d-44">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="767" y="656" />
+              <mxPoint x="657" y="656" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TSMCGkvwtsyavsWyP97d-47" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.02;exitY=1.01;entryX=0.94;entryY=1.01;rounded=0;" edge="1" parent="1" source="TSMCGkvwtsyavsWyP97d-39" target="TSMCGkvwtsyavsWyP97d-40">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1013" y="874" />
-              <mxPoint x="767" y="874" />
+              <mxPoint x="903" y="874" />
+              <mxPoint x="657" y="874" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TSMCGkvwtsyavsWyP97d-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.94;exitY=0.01;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="TSMCGkvwtsyavsWyP97d-40" target="TSMCGkvwtsyavsWyP97d-41">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="767" y="820" />
+              <mxPoint x="657" y="820" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TSMCGkvwtsyavsWyP97d-49" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.88;entryX=1;entryY=0.91;rounded=0;" edge="1" parent="1" source="TSMCGkvwtsyavsWyP97d-36" target="TSMCGkvwtsyavsWyP97d-37">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1013" y="1037" />
-              <mxPoint x="767" y="1037" />
+              <mxPoint x="903" y="1037" />
+              <mxPoint x="657" y="1037" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TSMCGkvwtsyavsWyP97d-50" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.86;exitY=-0.01;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="TSMCGkvwtsyavsWyP97d-37" target="TSMCGkvwtsyavsWyP97d-38">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="767" y="984" />
+              <mxPoint x="657" y="984" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TSMCGkvwtsyavsWyP97d-51" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.61;exitY=0.01;entryX=0;entryY=0.28;rounded=0;" edge="1" parent="1" source="TSMCGkvwtsyavsWyP97d-31" target="TSMCGkvwtsyavsWyP97d-43">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="467" y="673" />
-              <mxPoint x="542" y="673" />
+              <mxPoint x="357" y="673" />
+              <mxPoint x="432" y="673" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TSMCGkvwtsyavsWyP97d-52" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.08;entryX=0.14;entryY=0.01;rounded=0;" edge="1" parent="1" source="TSMCGkvwtsyavsWyP97d-31" target="TSMCGkvwtsyavsWyP97d-40">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="467" y="813" />
-              <mxPoint x="542" y="813" />
+              <mxPoint x="357" y="813" />
+              <mxPoint x="432" y="813" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TSMCGkvwtsyavsWyP97d-53" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.65;exitY=1.01;entryX=0.2;entryY=-0.01;rounded=0;" edge="1" parent="1" source="TSMCGkvwtsyavsWyP97d-31" target="TSMCGkvwtsyavsWyP97d-37">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="467" y="977" />
-              <mxPoint x="542" y="977" />
+              <mxPoint x="357" y="977" />
+              <mxPoint x="432" y="977" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TSMCGkvwtsyavsWyP97d-54" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0.02;entryY=-0.01;rounded=0;" edge="1" parent="1" source="TSMCGkvwtsyavsWyP97d-44" target="TSMCGkvwtsyavsWyP97d-42">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1013" y="656" />
+              <mxPoint x="903" y="656" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TSMCGkvwtsyavsWyP97d-55" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0.02;entryY=0.01;rounded=0;" edge="1" parent="1" source="TSMCGkvwtsyavsWyP97d-41" target="TSMCGkvwtsyavsWyP97d-39">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1013" y="820" />
+              <mxPoint x="903" y="820" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TSMCGkvwtsyavsWyP97d-56" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0.12;entryY=-0.01;rounded=0;" edge="1" parent="1" source="TSMCGkvwtsyavsWyP97d-38" target="TSMCGkvwtsyavsWyP97d-36">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1013" y="984" />
+              <mxPoint x="903" y="984" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TSMCGkvwtsyavsWyP97d-57" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.64;exitY=0.01;entryX=0.06;entryY=0.99;rounded=0;" edge="1" parent="1" source="TSMCGkvwtsyavsWyP97d-31" target="TSMCGkvwtsyavsWyP97d-43">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="467" y="710" />
-              <mxPoint x="542" y="710" />
+              <mxPoint x="357" y="710" />
+              <mxPoint x="432" y="710" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TSMCGkvwtsyavsWyP97d-58" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.85;entryX=0.06;entryY=1.01;rounded=0;" edge="1" parent="1" source="TSMCGkvwtsyavsWyP97d-31" target="TSMCGkvwtsyavsWyP97d-40">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="467" y="874" />
-              <mxPoint x="542" y="874" />
+              <mxPoint x="357" y="874" />
+              <mxPoint x="432" y="874" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TSMCGkvwtsyavsWyP97d-59" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.61;exitY=1.01;entryX=0;entryY=0.56;rounded=0;" edge="1" parent="1" source="TSMCGkvwtsyavsWyP97d-31" target="TSMCGkvwtsyavsWyP97d-37">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="467" y="1021" />
-              <mxPoint x="542" y="1021" />
+              <mxPoint x="357" y="1021" />
+              <mxPoint x="432" y="1021" />
             </Array>
           </mxGeometry>
         </mxCell>
