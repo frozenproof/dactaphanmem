@@ -656,6 +656,37 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="OuKS78Ats9uxQYEp-e0J-193" value="what is it" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1278" y="4000" width="83" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="OuKS78Ats9uxQYEp-e0J-194" value="after" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="4145" width="50" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="OuKS78Ats9uxQYEp-e0J-195" value="nothing" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1221" y="4290" width="68" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="OuKS78Ats9uxQYEp-e0J-196" value="achieve" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="4109" width="109" height="109" as="geometry" />
+        </mxCell>
+        <mxCell id="OuKS78Ats9uxQYEp-e0J-197" value="desire" style="curved=1;startArrow=none;endArrow=block;exitX=0.24;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="OuKS78Ats9uxQYEp-e0J-193" target="OuKS78Ats9uxQYEp-e0J-194">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1255" y="4073" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OuKS78Ats9uxQYEp-e0J-198" value="unknown" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="OuKS78Ats9uxQYEp-e0J-194" target="OuKS78Ats9uxQYEp-e0J-195">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OuKS78Ats9uxQYEp-e0J-199" value="goal" style="curved=1;startArrow=none;endArrow=block;exitX=0.77;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="OuKS78Ats9uxQYEp-e0J-193" target="OuKS78Ats9uxQYEp-e0J-196">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1385" y="4073" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
